@@ -4,7 +4,7 @@ title:  "Day seven"
 date:   2018-12-10 12:37:39 -0600
 ---
 # The Drake Passage - day two
-Today the sea was a lot calmer (yay!). Several of us enjoyed being out on deck. Today I saw Cape petrels, Antarctic Petrel, Blackbrowed albatross, and Southern fulmar, the occasional white-chinned petrel and giant petrel. 
+Today the sea was a lot calmer (yay!). Several of us enjoyed being out on deck. Today I saw Cape petrels, Antarctic Petrel, Blackbrowed albatross, and Southern fulmar, the occasional white-chinned petrel and giant petrel.
 
 The Cape Petrels especially gave a dazzling show. It truly is mesmerizing to watch them. They approach the ship in a flock, then fly to the side of the ship and land on the water. They repeated this many times. They had no trouble keeping up. These might be one of my favorite birds.
 
@@ -12,5 +12,4 @@ The Cape Petrels especially gave a dazzling show. It truly is mesmerizing to wat
 
 There was also science to be done on the ship: multiple moorings were deployed. These are devices that collect information on sea water conditions, depending on the sensor attached. Sensors may measure temperature, conductivity, fluorescence (which can measure phytoplankton concentration). It is quite an operation to deploy the mooring. These will be collected again in January.
 
-![Mooring deployment](/assets/blog_photos/181210/20181210screenshot2.jpg)
-
+![Mooring](/assets/blog_photos/181210/20181210screenshot2.jpg)
