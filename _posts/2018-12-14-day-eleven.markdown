@@ -16,6 +16,6 @@ No time to lose as Bruce's time on the station has been cut short: first our dep
 
 ![Open-top chamber](/assets/blog_photos/181214/p1060280.jpg)
 
-We also need to find a way to secure the open-top chambers to the ground (as you would pitch a tent). One of the advantages of being on the station or on the ship is that if you work with boats, you need to know how to tie various knots - different knots for different functions. So, we learned a few different knots! Our experimental design will use the Bolin, the Butterfly and the Truckers knot on the same rope. Using these three in combination will allow us to put the tent stakes into the soil, and cinch down the rope that is attached to the stake so it has the right tension. I discovered I could do one knot really well (the butterfly knot), but terrible at the others.
+We also need to find a way to secure the open-top chambers to the ground (as you would pitch a tent). One of the advantages of being on the station or on the ship is that if you work with boats, you need to know how to tie various knots - different knots for different functions. So, we learned a few different knots! Our experimental design will use the Bowline, the Butterfly and the Truckers knot on the same rope. Using these three in combination will allow us to put the tent stakes into the soil, and cinch down the rope that is attached to the stake so it has the right tension. I discovered I could do one knot really well (the butterfly knot), but terrible at the others.
 
 ![Knots](/assets/blog_photos/181214/p1060282.jpg)
