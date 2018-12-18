@@ -14,19 +14,19 @@ My study area is a deglaciated area. The glacier, named the Marr Ice Piedmont, h
 
 The idea for my research project was that the recently exposed soils should provide a gradient in plant productivity, from no plants close to the glacier edge, to some or many plants nearer to Palmer station (as soils closer to Palmer station would have had more time to be colonized by plants). 
 
-Upon preliminary scoping of my study area today I find that there are some plants (very sporadic), but they do not look that healthy compared to the ones on Litchfield (see yesterday's [blog][day13]). Litchfield is part of my study, and represents the highest plant productivity site. 
+Upon preliminary scoping of my study area today I find that there are some plants (very sporadic), but they do not look that healthy compared to the ones on Litchfield Island (see yesterday's [blog][day13]). Litchfield Island is one of the sites in my study and represents the "lushest" plant site.
 
 ![Moss behind Palmer station](/assets/blog_photos/181217/p1060532.jpg)
 
 I am not discouraged - it will be a challenge to find suitable sites, but we have more areas to explore that are still buried beneath the snow. 
 
-One good thing though: our prototype withstood the 20-25 knot winds a few days ago. 
+One good thing though: our prototype outside withstood the 20-25 knot winds a few days ago. 
 
 ![Chamber prototype](/assets/blog_photos/181217/p1060490.jpg)
 
-Kelly and I hiked up the glacier and I looked back at my two general study areas: 
-* the area between the station (bottom left in photo) and the glacier that I am standing on
-* Litchfield Island: the large island just before the large iceberg in the photo.
+Kelly and I hiked up the glacier. At one point I looked back at my two general study areas: 
+* The land area between the station (bottom left in photo) and the glacier that I am on.
+* Litchfield Island: the large island central in the photo (in front of the large iceberg).
 
 We are simply lucky to be able to work in this paradise. Challenge accepted.
 
