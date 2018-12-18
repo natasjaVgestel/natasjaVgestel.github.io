@@ -5,7 +5,7 @@ date:   2018-12-17 12:37:39 -0600
 ---
 
 # Safety training
-Safety is the top priority at Palmer Station. Today Kelly and I had Island Survival Training. We learned what is in the boat bag and the three survival bins, each set of three bins strategically placed on different islands. I learned how to light the tiny stove, tie various knots (including my favorite butterfly knot), throw a rope to someone in the water, use the GPS (including setting a waypoint quickly if there is a person overboard), and set up the tent that is in the boat bag. 
+Safety is one of the top priorities at Palmer Station. Today Kelly and I had Island Survival Training. We learned what is in the boat bag and the three survival bins, each set of three bins strategically placed on different islands. I learned how to light the tiny stove, tie various knots (including my favorite butterfly knot), throw a rope to someone in the water, use the GPS (including setting a waypoint quickly if there is a person overboard), and set up the tent that is in the boat bag. 
 
 # My study area
 My study area is a deglaciated area. The glacier, named the Marr Ice Piedmont, has been retreating quite fast, especially in recent decades. It used to border the station perimeter, but now it has retreated by several hundred meters, thereby revealing the rocks (and soil!) beneath it. Here is a photo of a tag showing where the glacier terminus was in 1984. 
