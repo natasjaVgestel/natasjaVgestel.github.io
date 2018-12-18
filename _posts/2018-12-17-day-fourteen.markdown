@@ -28,7 +28,7 @@ Kelly and I hiked up the glacier. At one point I looked back at my two general s
 * The land area between the station (bottom left in photo) and the glacier that I am on.
 * Litchfield Island: the large island central in the photo (in front of the large iceberg).
 
-We are simply lucky to be able to work in this paradise. Challenge accepted.
+We are simply lucky to be able to work in this paradise. Challenge accepted. Now we wait for the snow to melt.
 
 ![Two study areas](/assets/blog_photos/181217/p1060529.jpg)
 
