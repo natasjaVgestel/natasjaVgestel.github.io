@@ -16,8 +16,8 @@ My office looks out over the pier. I love to look out the window and get inspire
 
 ![Gentoos by pier](/assets/blog_photos/181218/p1060540.jpg)
 
-They are the third largest penguin species. The largest is the Emperor penguin, followed by the King penguin. When penguins move on snow and ice, they often move by tobogganing. To do this, they lay down on their bellies and use their feet and flippers to glide themselves onward. The tracks produced by this motion are quite fascinating!
+They waddled on the pier. However, when penguins move on snow and ice, they often move by tobogganing. To do this, they lay down on their bellies and use their feet and flippers to glide themselves onward. The tracks produced by this motion are quite fascinating!
 
 ![Tobogganing tracks from Amsler Island](/assets/blog_photos/181218/p1060387.jpg)
 
-The population of gentoo penguins in the Palmer area has increased. These penguins are not ice-dependent. In contrast, Adélie Penguins, a true Antarctic species (and ice-dependent), have declined in numbers in the Palmer area. The shift in penguin populations has to due with the changes in sea ice duration and extent, a shift in food sources, wetter conditions, and other causes related to climate change. So although the gentoos are cute, they are a harbinger of what we have done (and are doing) to our planet.
+Gentoos are the third largest penguin species. The largest is the Emperor penguin, followed by the King penguin. The population of gentoo penguins in the Palmer area has increased. These penguins are not ice-dependent. In contrast, Adélie Penguins, a true Antarctic species (and ice-dependent), have declined in numbers in the Palmer area. The shift in penguin populations has to due with the changes in sea ice duration and extent, a shift in food sources, wetter conditions, and other causes related to climate change. So although the gentoos are cute, they are a harbinger of what we have done (and are doing) to our planet.
