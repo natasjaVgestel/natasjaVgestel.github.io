@@ -7,7 +7,7 @@ date:   2018-12-19 12:37:39 -0600
 # Successes
 
 ## First success 
-Today we tested our scientific instruments called LI-CORs that measure carbon in the air. We used these to measure how much carbon is entering and leaving the ecosystem. Carbon enters the ecosystem through photosynthesis and leaves the ecosystem through respiration. My interest is in the net balance between these two fluxes and how warming affects this balance.
+Today we tested our scientific instruments called LI-CORs that measure carbon in the air. We will use these to measure how much carbon is entering and leaving the ecosystem. Carbon enters the ecosystem through photosynthesis and leaves the ecosystem through respiration. My interest is in the net balance between these two fluxes and how warming affects this balance.
 
 The first success was to test to ensure the LI-CORs had no air leaks. Perhaps our first success (i.e., no air leaks) can be attributed to our mascotte: lego cable guy (see photo).
 
