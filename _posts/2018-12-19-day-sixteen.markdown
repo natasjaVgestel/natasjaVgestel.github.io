@@ -25,7 +25,7 @@ And now for the real test: does the open-top chamber work?
 The results are promising, with lots of red in the inside, and cooler areas outside the chamber. It was a cloudy day, so I am glad to see it seemed to work even then! How does the chamber work? It lets in sunlight (which is shortwave radiation), but the longwave radiation (i.e., heat) gets somewhat trapped inside. The open top allows precipitation to enter so that we just warm the inside, but keep changes in other variables (such as rain or snow) to a minimum.
 
 ## Third success
-Kelly and I were jumping for joy (ok, almost) when we found some very nice patches of vegetation. I was a little worried a couple of days ago ([day 14](https://natasjavgestel.github.io/blog/2018/12/17/day-fourteen)) when all we found were small patches vegetation, mostly in rock cracks (and not in soil), seemingly dead as they were a very dark brown color.
+Kelly and I were jumping for joy (ok, almost) when we found some very nice patches of vegetation. I was a little worried a couple of days ago ([day 14](https://natasjavgestel.github.io/blog/2018/12/17/day-fourteen)) when all we found were small patches of vegetation, mostly in rock cracks (and not in soil), seemingly dead as they were a very dark brown color.
 
 ![Potential study site](/assets/blog_photos/181219/181219_backyard_moss.jpg)
 
