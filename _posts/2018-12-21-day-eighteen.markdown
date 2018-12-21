@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day Eighteen"
+title:  "Day eighteen"
 date:   2018-12-21 12:37:39 -0600
 ---
 # Instruments in working order
