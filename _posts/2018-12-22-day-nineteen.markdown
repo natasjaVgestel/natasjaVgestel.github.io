@@ -13,7 +13,7 @@ The first image features Kelly as she is taking in the stunning scenery (and per
 
 ![Kelly taking in the scenery](/assets/blog_photos/181222/p1060515.jpg)
 
-The second image is me simply contemplating what the best composition is for my next photo.
+The image below was taken by Kelly. It shows me simply contemplating what the best composition is for my next photo.
 
 ![Natasja on the Marr Ice Piedmont](/assets/blog_photos/181222/img_1670.jpg)
 
