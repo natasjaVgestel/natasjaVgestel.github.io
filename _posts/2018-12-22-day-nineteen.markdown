@@ -9,11 +9,11 @@ It was a foggy/rainy/snowy day. A great day for indoor activity. I wrote up the 
 # Marr Ice Piedmont
 The Marr Ice Piedmont is the glacier behind Palmer Station that has receded several hundred meters in the last five decades. It is the area that has been deglaciated by this glacier that is our study area. It is a beautiful domed glacier that provides spectacular views of the surrounding area. It is baffling to know how much climate change has already affected this glacier.
 
-The first image features Kelly as she is taking in the stunning scenery (and perhaps contemplating the study area and the big questions in research). 
+The first image features Kelly as she is taking in the stunning scenery on her way down from the glacier (and perhaps contemplating the study area and the big questions in research). 
 
 ![Kelly taking in the scenery](/assets/blog_photos/181222/p1060515.jpg)
 
-The image below was taken by Kelly. It shows me simply contemplating what the best composition is for my next photo.
+The image below was taken by Kelly. It shows me on the glacier, and simply contemplating what the best composition is for my next photo.
 
 ![Natasja on the Marr Ice Piedmont](/assets/blog_photos/181222/img_1670.jpg)
 
