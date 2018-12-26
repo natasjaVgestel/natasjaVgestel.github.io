@@ -6,7 +6,7 @@ date:   2018-12-25 12:37:39 -0600
 # Christmas research
 First, wishing you all a very merry Christmas or other Holiday that you are celebrating. Today was a merry day for us also. We would not be deterred today from finding a second suitable site. Armed with stainless steel collars, a hammer, and a GPS to record the location of our next site, we set out bravely in search for the elusive soil.
 
-We found a site close to the glacier where we were able to set up ten more plots. This site will represent the youngest site in our study. The glacier only receded here within the last 10 years or so, so there are no visible plants yet.
+We found a site close to the glacier (the glacier is the looming white dome behind Kelly) where we were able to set up ten more plots. This site will represent the youngest site in our study. The glacier only receded here within the last 10 years or so, so there are no visible plants yet.
 
 ![Youngest site](/assets/blog_photos/181225/181225.jpg)
 
