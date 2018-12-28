@@ -13,11 +13,12 @@ We carried a lot of gear, but even then we forgot a couple of items. Below you c
 
 Kelly is an expert in inserting them. 
 
-!Kelly inserting soil collars](/assets/blog_photos/181227/20181227_screenshot2.jpg)
+![Kelly inserting soil collars](/assets/blog_photos/181227/20181227_screenshot2.jpg)
 
 Kelly has had a lot of field experience prior to joining my lab, and it is clear by how we work together. Someone with field experience fills in what needs to be done so that together the work flow of the team is fluent. 
 
 And voilá, the work was completed late today! You can see our rain gauge in the photo also. Other measurements include soil temperature and soil moisture inside individual plots. 
 
+![Mid-productivity site done](/assets/blog_photos/181227/p1060741_smaller.jpg)
 We have one more site to do: the highest vegetation site on Litchfield Island. More about that later.
 
