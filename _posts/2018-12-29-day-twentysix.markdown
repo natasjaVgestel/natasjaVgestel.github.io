@@ -4,7 +4,7 @@ title:  "Day twenty-six"
 date:   2018-12-29 12:37:39 -0600
 ---
 # Palmer station
-Palmer station is a United States research station on Anvers Island, just west of the Antarctic Peninsula. It was named after Nathaniel B. Palmer who was hunting seals and may have been the first person to see Antarctica in 1820. 
+Palmer station is a United States research station on Anvers Island, just west of the Antarctic Peninsula. It was named after Nathaniel B. Palmer who was hunting seals and may have been the first American to see Antarctica in 1820. 
 
 The station was built on solid rock in 1968. It can house just over 40 people in total. The main building is the BIO building, which houses all the labs, the sea aquaria, the galley and dining areas, and about half of the bedrooms on station. The dining area overlooks Hero Inlet, a narrow inlet between the station and Bonaparte Point. 
 
