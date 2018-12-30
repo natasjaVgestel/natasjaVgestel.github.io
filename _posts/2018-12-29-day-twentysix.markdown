@@ -12,7 +12,7 @@ The station was built on solid rock in 1968. It can house just over 40 people in
 
 The second main building is GWR, named for Garage, Warehouse and Recreation. It also houses the the other half of the bedrooms, a bar, and a lounge with a projector screen for presentations (or movies!), which also includes a library.
 
-The Wi-Fi on station uses the commonly used [spread spectrum](https://en.wikipedia.org/wiki/Spread_spectrum) technology. It involves frequency hopping (literally, jumping to different frequencies). Essentially, the signal is spread over a wider frequency. This also allows privacy and multiple users to use the same bandwidth. It was a technique co-invented by the actress [Hedy Lamar](https://en.wikipedia.org/wiki/Hedy_Lamarr) during World War II because frequency hopping prevented jamming of radio signals. 
+The Wi-Fi on station uses the commonly used [spread spectrum](https://en.wikipedia.org/wiki/Spread_spectrum) technology. It involves frequency hopping (literally, jumping to different frequencies). Essentially, the signal is spread over a wider bandwidth. This also allows privacy and multiple users to use the same bandwidth. It was a technique co-invented by the actress [Hedy Lamar](https://en.wikipedia.org/wiki/Hedy_Lamarr) during World War II because frequency hopping prevented jamming of radio signals. 
 
 However, and pretty amazingly, one major limitation is the amount of bandwidth we can use. The WHOLE STATION shares 3 Megabits per second (Mbps), whereas a cell phone uses about 19 Mbps, and most households have 60 Mbps or more. So, internet is a whole lot slower for us!
 
