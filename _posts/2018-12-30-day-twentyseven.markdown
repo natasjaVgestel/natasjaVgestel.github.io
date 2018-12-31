@@ -9,7 +9,7 @@ Antarctica is a harsh but beautiful environment. Less than 1% of land in Antarct
 
 ![Sunset on December 29](/assets/blog_photos/181230/p1070015.jpg)
 
-Nevertheless, there is vegetation that survive the extreme environmental conditions, particularly mosses and lichens. There are about 100 moss species. The dominant peat-forming mosses (i.e., create thick carpets of organic materials) are in the genus *Polytrichum* (left photo) and *Chorisodontium * (right photo). There are researchers that have observed shifts in the  communities of mosses because of the warmer wetter conditions on the Antarctic Peninusla (did I mention the western Antarctic Peninsula is one of the fastest warming region of our planet?).
+Nevertheless, there is vegetation that survives the extreme environmental conditions, particularly mosses and lichens. There are about 100 moss species. The dominant peat-forming mosses (i.e., create thick carpets of organic materials) are in the genus *Polytrichum* (left photo) and *Chorisodontium* (right photo). There are researchers that have observed shifts in the  communities of mosses because of the warmer wetter conditions on the Antarctic Peninusla (did I mention the western Antarctic Peninsula is one of the fastest warming region of our planet?).
 
 ![Polytrichum and Chorisodontium](/assets/blog_photos/181230/181230_moss.jpg)
 
