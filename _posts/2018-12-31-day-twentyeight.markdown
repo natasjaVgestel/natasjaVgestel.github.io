@@ -23,6 +23,8 @@ Apparently two Adélie penguins who have plummeted in population numbers in this
 
 They actually stayed a while with us, watching us closely. We had to work under their scrutiny, so we made sure we did excellent work!
 
+![Penguins decided to walk around our plots](/assets/blog_photos/181231/20181231_screenshot2.jpg)
+
 A leopard seal floating on an ice floe seemed to care a little less about our project as it dozed for hours (seriously, *hours*!!!). This of course, gave great photo opportunities while watching safely from our field site. 
 
 ![Leopard seal on December 31](/assets/blog_photos/181231/p1070100.jpg)
