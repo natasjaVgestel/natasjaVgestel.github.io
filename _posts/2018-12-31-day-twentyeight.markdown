@@ -27,7 +27,8 @@ They actually stayed a while with us, watching us closely. We had to work under 
 
 A leopard seal floating on an ice floe seemed to care a little less about our project as it dozed for hours (seriously, *hours*!!!). This of course, gave great photo opportunities while watching safely from our field site. 
 
+What a great way to end the day!!! HAPPY NEW YEAR EVERYONE!
+
 ![Leopard seal on December 31](/assets/blog_photos/181231/p1070100.jpg)
 
-What a great way to end the day!!! HAPPY NEW YEAR EVERYONE!
 
