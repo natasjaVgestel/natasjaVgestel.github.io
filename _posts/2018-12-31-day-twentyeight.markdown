@@ -15,7 +15,7 @@ One major question in my research is how warming affects the net carbon balance.
 
 We need to take these measurements before we start the warming treatment with the cone-shaped chambers I showed on [day 14](https://natasjavgestel.github.io/blog/2018/12/17/day-fourteen). Getting pre-treatment data is good practice in science - how would you know if a treatment worked unless you have some pre-treatment information?
 
-My study is important, because what if warming increases net carbon loss from the ecosystem? That means faster incrases in CO2 in the atmosphere and thus accelerated warming rates.
+My study is important, because what if warming increases net carbon loss from the ecosystem? That means faster increases in CO2 in the atmosphere and thus accelerated warming rates.
 
 Apparently two Adélie penguins, who belong to the species of penguins whose populations have plummeted in the Palmer area because of the rapid warming rates in the region, are curious about my research question also! A self-reinforcing cycle between atmospheric warming rates and carbon could affect them further!
 
