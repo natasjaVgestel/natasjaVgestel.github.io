@@ -20,7 +20,7 @@ We were now set to continue and finalize our carbon flux measurements today. Per
 
 Note that the chamber, now entirely treated with toothpaste, is clear? 
 
-When we take carbon flux measurements, we first take measurements with the clear chamber so that photosynthesis can happen (note cable guy in left photo below!). The second measurement in that same plot will be in the dark - we use a thick black shower curtain to block out the light completely. Total darkness means that only respiration can happen (as photosynthetic processed need light). So, now we have two important fluxes: 
+When we take carbon flux measurements, we first take measurements with the clear chamber so that photosynthesis can happen. The second measurement in that same plot will be in the dark - we use a thick black shower curtain to block out the light completely. Total darkness means that only respiration can happen (as photosynthetic processes need light). So, now we have two important fluxes: 
 * the net flux (with photosynthesis and respiration happening at the same time)
 * the flux caused by respiration
 
