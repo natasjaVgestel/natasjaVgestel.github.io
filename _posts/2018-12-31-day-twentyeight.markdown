@@ -17,7 +17,7 @@ We need to take these measurements before we start the warming treatment with th
 
 My study is important, because what if warming increases net carbon loss from the ecosystem? That means faster incrases in CO2 in the atmosphere and thus accelerated warming rates.
 
-Apparently two Adélie penguins who have plummeted in population numbers in this rapidly warming region are curious about my research question also!
+Apparently two Adélie penguins who have plummeted in population numbers in this rapidly warming region are curious about my research question also! A self-reinforcing cycle between atmospheric warming rates and carbon could affect them too!
 
 ![Curious penguins checking on instruments](/assets/blog_photos/181231/20181231_screenshot1.jpg)
 
