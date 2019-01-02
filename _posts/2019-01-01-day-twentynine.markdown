@@ -14,7 +14,7 @@ And it worked! The half treated with the toothpaste remained far clearer than th
 
 ![Toothpaste in one half of chamber](/assets/blog_photos/190101/p1070096.jpg)
 
-We were now set to continue and finalize our carbon flux measurements today. Perhaps our mascotte will provide us with luck. We received our mascotte from Phil Cruzan (from Texas Tech university), who had built the chamber for me based on my design. The mascotte's name: Cable Guy; he holds the PAR sensor. The PAR sensor measures the light available to plants; PAR stands for photosynthetically active radiation, so light between 400-700 nm.
+We were set to continue and finalize our carbon flux measurements today. Perhaps our mascotte will provide us with luck. We received our mascotte from Phil Cruzan (from Texas Tech university), who had built the chamber for me based on my design. The mascotte's name: Cable Guy; he holds the PAR sensor. The PAR sensor measures the light available to plants; PAR stands for photosynthetically active radiation, so light between 400-700 nm.
 
 ![Cable Guy on New Year's Day](/assets/blog_photos/190101/190101_cableguy.jpg)
 
