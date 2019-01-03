@@ -12,7 +12,7 @@ The glacier edge abutted the station back in the 1960s. Below is a historic phot
 
 ![Historic photo of Palmer station and glacier](/assets/blog_photos/190103/palmer_antarctica033.jpg)
 
-Personnel at Palmer Station have been carefully monitoring the glacier's retreat over time, including Marissa Goerke. Below is a figure that shows where the glacier edge was at different time points. The units are in meters. See if you can find out when the above photo was taken based on the lines in the figure. 
+Personnel at Palmer Station have been carefully monitoring the glacier's retreat over time, including Marissa Goerke. Below is a figure from Palmer Station that shows where the glacier edge was at different time points. The units are in meters. See if you can find out when the above photo was taken based on the lines in the figure. 
 
 ![Historic photo of Palmer station and glacier](/assets/blog_photos/190103/20190103_screenshot.jpg)
 
