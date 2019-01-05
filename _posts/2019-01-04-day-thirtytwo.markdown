@@ -4,7 +4,7 @@ title:  "Day thirty-two"
 date:   2019-01-04 12:37:39 -0600
 ---
 # Another team member
-The research vessel that I had arrived on, the [R/V Laurence Gould](https://www.usap.gov/vesselscienceandoperations/contenthandler.cfm?id=1626), brought a new team member: Alicia Purcell, a PhD student at the Center for [Ecosystem Science and Society](http://ecoss.nau.edu/) (Northern Arizona University). You can see Gentoo penguins in the foreground welcoming here also!
+The research vessel that I had arrived on, the [R/V Laurence Gould](https://www.usap.gov/vesselscienceandoperations/contenthandler.cfm?id=1626), brought a new team member: Alicia Purcell, a PhD student at the [Center for Ecosystem Science and Society](http://ecoss.nau.edu/) (Northern Arizona University). You can see Gentoo penguins in the foreground welcoming here also!
 
 ![Gould arriving January 3rd](/assets/blog_photos/190104/20190104_gould_arriving.jpg)
 
