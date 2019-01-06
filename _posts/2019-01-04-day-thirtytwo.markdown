@@ -21,4 +21,3 @@ We completed the experimental setup, with open-top chambers now in place at all 
 We are currently a team of three. Our code name on the radio (for when we check in) is: SOIL SISTERS! Indeed, that is what we are. Alas, Alicia will only be here until early February. So, we will science greatly in the meantime! (not quite the quote from *The Martian*, but you get the idea)
 
 ![Five open-top warming chambers](/assets/blog_photos/190104/p1070298.jpg)
-
