@@ -16,7 +16,7 @@ In the photo below, Doc is collecting the cores while Kelly is capping the botto
 
 So, what is the water treatment? One pair of soil cores received highly purified water (H2O) that contains mostly oxygen-16 (so, it really is regular water with all the salts and other compounds removed - as pure as water gets!). The other pair of soil cores would receive water that contains a heavier oxygen isotope: oxygen-18!
 
-The bottle shown in the four panel photo above (top left) is the "heavy water" and this tiny bottle costs $1200! This heavy water is not dangerous in that it is a natural, stable isotope (so not radioactive). You find it in the environment normally, but at much lower concentrations.
+The bottle shown in the four panel photo below (top left) is the "heavy water" and this tiny bottle costs $1200! This heavy water is not dangerous in that it is a natural, stable isotope (so not radioactive). You find it in the environment normally, but at much lower concentrations.
 
 ![Incubation process](/assets/blog_photos/190106/18o_incubation.jpg)
 
