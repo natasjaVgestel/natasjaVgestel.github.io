@@ -22,7 +22,7 @@ The bottle shown in the four panel photo below (top left) is the "heavy water" a
 
 Why do we have highly purified (regular) water and water with a heavier oxygen isotope? That is the cool part!!! Only microbes that are active use water. Where does the oxygen part of the water go? Partly into their DNA! 
 
-In the labs at home Alicia will determine how much heavier their DNA has become in the heavy water treatment (so she will compare it to the cores that had the regular water). Those that have become much heavier are those that grew the fastest. Those that do not show any differences in DNA density are those that remained dormant. How cool is that: to relate changes in DNA density to their growth!
+In her home lab at [Ecoss](http://ecoss.nau.edu/) Alicia will determine how much heavier their DNA has become in the heavy water treatment (so she will compare it to the cores that had the regular water). Those that have become much heavier are those that grew the fastest. Those that do not show any differences in DNA density are those that remained dormant. How cool is that: to relate changes in DNA density to their growth!
 
 We have some hypotheses as to what we expect regarding microbial growth .... If you have any, let me know: natasja.van-gestel@ttu.edu.
 
