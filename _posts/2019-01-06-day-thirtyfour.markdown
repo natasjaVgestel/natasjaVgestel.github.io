@@ -26,5 +26,5 @@ In the labs at home Alicia will determine how much heavier their DNA has become 
 
 We have some hypotheses as to what we expect regarding microbial activities .... If you have any, let me know: natasja.van-gestel@ttu.edu.
 
-![Incubation process](/assets/blog_photos/190106/p1070378.jpg)
+![Let the science begin](/assets/blog_photos/190106/p1070378.jpg)
 
