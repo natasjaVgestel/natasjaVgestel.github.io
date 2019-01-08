@@ -12,7 +12,7 @@ We managed today to set up the field incubations in our last two sites, thereby 
 
 ![Incubations before and after](/assets/blog_photos/190108/Incubation_site3.jpg)
 
-What that made us momentarily forget that we were cold (aside from pretty lichen, cool rocks, etc), were penguin tracks in a sediment patch! You can see penguin feet are pretty thick, and relatively large! Zooming in on the photo, you can even see the scaliness of the underparts of their feet!
+What made us momentarily forget that we were cold (aside from pretty lichen, cool rocks, etc), were penguin tracks in a sediment patch! You can see penguin feet are pretty thick, and relatively large! Zooming in on the photo, you can even see the scaliness of the underparts of their feet!
 
 ![Penguin footprint in sediment](/assets/blog_photos/190108/190108_penguin_feet.jpg)
 
