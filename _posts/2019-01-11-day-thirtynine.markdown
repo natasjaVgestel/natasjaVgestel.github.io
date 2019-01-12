@@ -23,4 +23,4 @@ Guess who was watching us as we were searching? You guessed it: skuas.
 
 We returned to the lab to figure out how to make our site skua proof. Zee gave us chickenwire, and we cut these to the size of our plots. We returned tonight to lay these over our plots and secured them with the nails that delineate our plots (and Randy gave us extra nails).
 
-We also have a backup plan: Rather than focusing on the field incubation in the warmed and control plots, we are now adding a lab experiment where we incubate samples at different temperatures. Definitely skua-proof.
+We also have a backup plan: we are adding a lab experiment where we incubate samples at different temperatures. Definitely skua-proof.
