@@ -8,12 +8,12 @@ It started out sunny and promising! We headed to Litchfield to check on our plot
 
 ![Litchfield view of Palmer area](/assets/blog_photos/190111/Litchfield_190111.jpg)
 
-However, our enthusiasm was soon squashed when we saw our carefully placed incubation tubes scattered across our study site, and one of our sensors was pulled out. On the right photo below we had put back one of the cores, but you clearly see a beak-shaped hole in front that a skua had made as it pulled out our core.
+However, our enthusiasm was soon squashed when we saw our carefully placed incubation tubes scattered across our study site, and one of our sensors was pulled out. It was a veritable crime scene! On the right photo below we had put back one of the cores, but you clearly see a beak-shaped hole in front that a skua had made as it pulled out our core.
 
 ![Scattered tubes](/assets/blog_photos/190111/skua_damage.jpg)
 
 # Strategy
-First we recorded the locations of each of the cores that were pulled out (using GPS) and identified which ones were missing. We put these back in place and then looked for three that were missing. We found all but one.
+We recorded the locations of each of the cores that were pulled out (using GPS) and identified which ones were missing. We put these back in place and then looked for three that were missing. We found all but one.
 
 ![Searching for cores](/assets/blog_photos/190111/Searching_for_cores.jpg)
 
