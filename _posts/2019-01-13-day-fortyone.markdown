@@ -4,7 +4,7 @@ title:  "Day forty-one"
 date:   2019-01-13 12:37:39 -0600
 ---
 # Rec boating
-Recreational boating is a great way to explore the Palmer area. Rec boating occurs when people have some time off to go explore. So usually in the evenings or on Sundays. And what a paradise to do so! Last night we visited cormorant island. On the way there the sea looked like quicksilver - simply stunning!
+Recreational boating is a great way to explore the Palmer area. Rec boating occurs when people have some time off to go explore. So usually in the evenings or on Sundays. And what a paradise to do so! Last night we visited Cormorant Island. On the way there the sea looked like quicksilver - simply stunning!
 
 ![Last night January 12](/assets/blog_photos/190113/p1080101.jpg)
 
@@ -12,7 +12,7 @@ We also visited Amsler Island (this was back in December). Amsler Island used to
 
 ![Amsler Island in December](/assets/blog_photos/190113/p1060444.jpg)
 
-It really is fun to have a small group of people that enjoy these kinds of trips as much as I do! To be surrounded by spectacular nature - I simply cannot express the feeling.
+It really is fun to have a small group of people that enjoy these kinds of trips as much as I do! To be surrounded by spectacular nature - I simply cannot express the feeling. Thanks, Keri, for taking the photo of Kelly and I!
 
 ![Rec boating](/assets/blog_photos/190113/Rec-boating.jpg)
 
