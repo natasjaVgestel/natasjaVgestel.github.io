@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Day forty"
+date:   2019-01-12 12:37:39 -0600
+---
+# Plant productivity gradient 
+It may seem somewhat suprising that there are plants in Antarctica, so far south and far away from other continents. 
+
+![Remoteness of Palmer](/assets/blog_photos/190112/20181216_073954.jpg)
+
+However, yes, and my study uses a gradient in plant productivity (see photo from top left to bottom right). 
+* Near the glacier edge (top left), my site does not have any visible plants, just soil. You can see the domed glacier behind me. 
+* My middle site (top right) has lots of bare soil, with some moss/algae. 
+* My next site is about 60 years in age has lichen, moss and even a grass (*Deschampsia antarctica*). 
+* My last site (bottom right) is located on Litchfield and has had several hundred years (or a few thousand years?) of time to develop. The peatbanks are very old. We will find out soon how old it is! One of the scientist on station is studying the age of the oldest moss at Litchfield. 
+
+![Plant productivity gradient](/assets/blog_photos/190112/Gradient.jpg)
+
+Antarctica has only two vascular plant species (vascular means they have specialized tissues to transport food and water): Antarctic hairgrass (which are found in my 3rd and 4th site) and Antarctic Pearlwort. 
+
+Ha! The presence of the grass means my plots contain 50% of the vascular plant species in Antarctica!
