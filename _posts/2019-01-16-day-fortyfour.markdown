@@ -8,7 +8,7 @@ There are many people at Palmer Station that volunteer to help with research. Th
 
 ![Hadar](/assets/blog_photos/190116/Hadar.jpg)
 
-As part of the training we needed to learn how to bring an unconscious person in the water back on board. Meet Ruth Lee - our manakin, held by Randy (upper left photo). She was tossed today many times in the water by Mike (upper right photo) so we could practice "saving" her using a winch (bottom photos). Poor Ruth. However, in the end, she will help save many lives. 
+As part of the training we needed to learn how to bring an unconscious person in the water back on board. Meet Ruth Lee - our manikin, held by Randy (upper left photo). She was tossed today many times in the water by Mike (upper right photo) so we could practice "saving" her using a winch (bottom photos). Poor Ruth. However, in the end, she will help save many lives. 
 
 Thank you, Mike Burns, for sharing your expertise today (and tossing Ruth for us)! 
 
