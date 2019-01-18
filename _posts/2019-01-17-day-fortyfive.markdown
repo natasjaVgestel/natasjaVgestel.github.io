@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Day forty-four"
-date:   2019-01-16 12:37:39 -0600
+title:  "Day forty-five"
+date:   2019-01-17 12:37:39 -0600
 ---
 # Boat Operator Training
 Today we continued our training, but this time on a Zodiac. The first part of the training was done ashore. We learned that our Zodiac has 60 horsepower Yamaha engines. Zodiacs also consist of multiple air chambers. To inflate a Zodiac, there is no need to inflate individual chambers - one can actually connect all the chambers easily by simply turning the valves on the chambers themselves. Just don't forget to turn the valves back to "Navigate". If one chamber accidentally deflates (or gets damaged), the others will remain inflated.
