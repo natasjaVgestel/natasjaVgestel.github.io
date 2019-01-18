@@ -10,8 +10,8 @@ Today we continued our training, but this time on a Zodiac. The first part of th
 
 We learned a lot today. If you ever take a boat out (photos are in this order also):
 * Always bring an Automatic Identification System (AIS) with you (it's the orange device on a pole, next to Kelly). This tells the station where you are at all times.
-* Learn how to navigate from the boating map (and bring two GPS devices with you)
-* Avoid the shoals (i.e., the very shallow areas - there are hilly peaks below the water surface! These come up suddenly and could damage the boat.
+* Learn how to navigate from the boating map (and bring two GPS devices with you).
+* Avoid the shoals (i.e., the very shallow areas - there are hilly peaks below the water surface!). These come up suddenly and could damage the boat.
 * Pin a boat properly, and tie it up well. Pinning means that the nose of the boat pushes up against land, so people can leave the front of the boat safely.
 
 ![Boating ops](/assets/blog_photos/190117/Boating_IIa.jpg)
