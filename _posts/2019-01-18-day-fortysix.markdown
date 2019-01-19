@@ -12,7 +12,7 @@ We saw several humpback whales from the vessel, including one centrally located 
 
 Humpbacks are the most common whale in this area. These gentle giants were nearly extirpated in the Southern Ocean as about [two million whales were killed](https://pal.lternet.edu/research/components-labs/cetacean-component) during commercial whaling in the previous century. Thus, it is quite gratifying to see so many of them these last few days, knowing that they are recovering from their near-annihiliation because of the ban on commercial whaling. 
 
-Humpbacks are recognized by the patterns on the underside of their fluke (tail). They are baleen whales that eat mostly krill here - using their baleen hairs to prevent krill from leaving their mouths as they push the seawater out. This is called filter feeding. Baleen is composed of keratin, just like human hair and finger nails. 
+Humpbacks are recognized by the patterns on the underside of their fluke (tail). They are baleen whales that eat mostly krill here - using their baleen hairs to prevent krill from leaving their mouths as they push the seawater out. This is called filter feeding. Baleen is composed of keratin, just like human hair and finger nails. Below are some images I took a few days ago.
 
 ![Humpback whales on January 17](/assets/blog_photos/190118/Whales_190117.jpg)
 
