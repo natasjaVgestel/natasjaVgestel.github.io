@@ -16,7 +16,7 @@ Humpbacks are recognized by the patterns on the underside of their fluke (tail).
 
 ![Humpback whales on January 17](/assets/blog_photos/190118/Whales_190117.jpg)
 
-The Palmer Station group focuses on understanding the ecology of the humpback whales, such as feeding behavior, or how the populations are structured (e.g. who is related to who?). In order to understand the genetics and health of these whales scientists collect a tiny pencil-sized sample of the blubber and skin of each whale. The scientists are out there, rain or shine, collecting samples or data, because the whales are out there (whales could care less about the weather!) 
+The Palmer Station group focuses on understanding the ecology of the humpback whales, such as feeding behavior, or how the populations are structured (e.g. who is related to who?). In order to understand the genetics and health of these whales, scientists collect a tiny pencil-sized sample of the blubber and skin of each whale. The scientists are out there, rain or shine, collecting samples or data, because the whales are out there (whales could care less about the weather!) 
 
 ![Logan and Greg](/assets/blog_photos/190118/whalers_190117.jpg)
 
