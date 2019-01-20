@@ -14,6 +14,6 @@ Next to the lounge is the bar. The more delicate woodwork with the viking patter
 
 ![Lounge and bar](/assets/blog_photos/190120/GWR_2.jpg)
 
-The balcony on GWR is accessible from both the bar and the gym. Below is the view from inside the gym - one can see the balcony and the Palmer area beyond. I would like to say we are roughing it down here, but that would not be true. With all the amenities, living on station is - as you can see - quite a treat!
+The balcony on GWR is accessible from both the bar and the gym. Below is the view from inside the gym - one can see the balcony, the other main building (BIO), and the Palmer area beyond. I would like to say we are roughing it down here, but that would not be true. With all the amenities, living on station is - as you can see - quite a treat!
 
 ![View from the gym](/assets/blog_photos/190120/20181229_231311_001.jpg)
