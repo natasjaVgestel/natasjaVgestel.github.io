@@ -1,9 +1,51 @@
----
-layout: default
----
-<h1>{{ page.title }}</h1>
-<p class="meta">{{ page.date | date_to_string }}</p>
-
-<div class="post">
-    {{ content }}
-</div>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1671.1">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 12.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 12.6px; font: 9.0px Courier; color: #2c3235; -webkit-text-stroke: #2c3235; background-color: #ffffff}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 12.6px; font: 9.0px Courier; color: #2c3235; -webkit-text-stroke: #2c3235; background-color: #ffffff; min-height: 9.0px}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">--- layout: default ---</span></p>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; line-height: 28.0px; font: 24.0px Times; color: #000000; -webkit-text-stroke: #000000"><span class="s1"><b>{{ page.title }}</b></span></h1>
+<p class="p3"><span class="s1">{{ page.date | date_to_string }}</span></p>
+<p class="p1"><span class="s1">{{ content }}<span class="Apple-converted-space"> </span></span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1">&lt;div class="PageNavigation"&gt;</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">  </span>{% if page.previous.url %}</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>&lt;a class="prev" href="{{page.previous.url}}"&gt;&amp;laquo; {{page.previous.title}}&lt;/a&gt;</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">  </span>{% endif %}</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">  </span>{% if page.next.url %}</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>&lt;a class="next" href="{{page.next.url}}"&gt;{{page.next.title}} &amp;raquo;&lt;/a&gt;</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">  </span>{% endif %}</span></p>
+<p class="p5"><span class="s1">&lt;/div&gt;</span></p>
+<p class="p6"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1">.PageNavigation {</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">  </span>font-size: 14px;</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">  </span>display: block;</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">  </span>width: auto;</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">  </span>overflow: hidden;</span></p>
+<p class="p5"><span class="s1">}</span></p>
+<p class="p6"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1">.PageNavigation a {</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">  </span>display: block;</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">  </span>width: 50%;</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">  </span>float: left;</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">  </span>margin: 1em 0;</span></p>
+<p class="p5"><span class="s1">}</span></p>
+<p class="p6"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1">.PageNavigation .next {</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">  </span>text-align: right;</span></p>
+<p class="p5"><span class="s1">}</span></p>
+</body>
+</html>
