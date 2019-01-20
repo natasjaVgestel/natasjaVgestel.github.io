@@ -8,7 +8,7 @@ Palmer station is one of three US research stations in Antarctica. With the capa
 
 ![Palmer station and area](/assets/blog_photos/190119/p1060400.jpg)
 
-All the people on station are very lucky to have chef Francis (left photo) and sous-chef Derrick (right photo). They prepare breakfast, lunch, dinner, and additionally, have snacks/pastries ready at 10:00 and at 15:00 (we use military time). They work very hard to ensure we get good and balanced meals (thank you!!!).
+All the people on station are very lucky to have chef Francis (left photo) and sous-chef Derrick (right photo). They prepare breakfast, lunch, dinner, and provide snacks/pastries at 10:00 and at 15:00 (we use military time). They work very hard to ensure we get good and balanced meals (thank you!!!).
 
 ![Francis and Derrick](/assets/blog_photos/190119/Chefs.jpg)
 
@@ -20,6 +20,6 @@ In BIO there is a science office available for scientists (the left photo shows 
 
 ![Offices](/assets/blog_photos/190119/Office_space.jpg)
 
-One thing that is absolutely **vital** for me personally (and many others on station) is the fancy coffee machine. For obvious reasons, it is also nicknamed the "Precious" (see golden ring). There were predecessors of this one, so this one is the Precious Reborn.
+One thing that is absolutely **vital** for me personally (and many others on station) is the fancy coffee machine. For obvious reasons, it is also nicknamed the "Precious". There were predecessors of this one, so this one is the Precious Reborn.
 
 ![The Precious](/assets/blog_photos/190119/p1080429.jpg)
