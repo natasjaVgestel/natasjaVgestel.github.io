@@ -8,7 +8,7 @@ Palmer station is one of three US research stations in Antarctica. With the capa
 
 ![Palmer station and area](/assets/blog_photos/190119/p1060400.jpg)
 
-All the people on station are very lucky to have chef Francis (left photo) and sous-chef Derrick (right photo). They prepare breakfast, lunch, dinner and have snacks/pastries ready at 10:00 and at 15:00 (we use military time). They work very hard to ensure we get good and balanced meals (thank you!!!).
+All the people on station are very lucky to have chef Francis (left photo) and sous-chef Derrick (right photo). They prepare breakfast, lunch, dinner, and additionally, have snacks/pastries ready at 10:00 and at 15:00 (we use military time). They work very hard to ensure we get good and balanced meals (thank you!!!).
 
 ![Francis and Derrick](/assets/blog_photos/190119/Chefs.jpg)
 
