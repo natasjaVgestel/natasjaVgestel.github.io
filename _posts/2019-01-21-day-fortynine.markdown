@@ -13,3 +13,5 @@ The samples have to frozen as quickly as possible to stop any biological activit
 ![Instant freezing of samples with liquid N2](/assets/blog_photos/190121/LiquidN2.jpg)
 
 Now that the samples are frozen (near-instant) they will be analyzed in the lab. The DNA density of microbes exposed to either the pure regular water (i.e., containing mostly 16-oxygen) or heavy water (with mostly 18-oxygen) will be assessed. Microbes with heavier DNA in the heavy water compared to the same kind of microbes in the regular water is evidence that they have grown. We expect many of them to not have grown, but we are particularly in those that do.
+
+![Alicia with glacier background](/assets/blog_photos/190121/IMG-20190121-WA0003.jpg)
