@@ -4,7 +4,7 @@ title:  "Day forty-eight"
 date:   2019-01-20 12:37:39 -0600
 ---
 # Palmer Station - part II
-In [part I](https://natasjavgestel.github.io/blog/2019/01/19/day-fortyseven) yesterday I discussed amenities from the BIO building. Today I will give you a virtual tour of the other main building - the GWR building. GWR stands for Gym, Warehouse and Recreation. Below are images of the gym and the adjacent laundry area. As you can see, scientists can work up a sweat and easily wash their clothes nearby. 
+In [part I](https://natasjavgestel.github.io/blog/2019/01/19/day-fortyseven) yesterday I discussed amenities from the BIO building. Today I will give you a virtual tour of the other main building - the GWR building. GWR stands for Gym, Warehouse and Recreation. Below are images of the gym and the adjacent laundry area. As you can see we can work up a sweat and conveniently wash our clothes nearby. 
 
 ![GWR gym and laundry room](/assets/blog_photos/190120/GWR_1.jpg)
 
