@@ -4,7 +4,7 @@ title:  "Day forty-nine"
 date:   2019-01-21 12:37:39 -0600
 ---
 # Collecting field incubation samples
-Alicia and Kelly collected a set of soil samples from the site closest to the glacier. These were soil samples that have remained in the soil for two weeks and had been treated with pure H2O or heavy water (with an 18-O oxygen) - see [day 34](https://natasjavgestel.github.io/blog/2019/01/06/day-thirtyfour) for a brief explanation. In two weeks we will collect the last set (i.e., the four-week long incubation samples). 
+Alicia and Kelly collected a set of soil samples from the site closest to the glacier (thank you both for the photos!). These were soil samples that have remained in the soil for two weeks and had been treated with pure H2O or heavy water (with an 18-O oxygen) - see [day 34](https://natasjavgestel.github.io/blog/2019/01/06/day-thirtyfour) for a brief explanation. In two weeks we will collect the last set (i.e., the four-week long incubation samples). 
 
 ![Collecting 2-week incubation samples](/assets/blog_photos/190121/Sampling_cores_for_liquidN2.jpg)
 
