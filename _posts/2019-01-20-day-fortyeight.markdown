@@ -10,7 +10,7 @@ In [part I](https://natasjavgestel.github.io/blog/2019/01/19/day-fortyseven) yes
 
 An important room in GWR is the lounge (left photo below). Here, people receive training upon arrival (e.g. safety training, waste management training, island survival training etc.). The lounge is also used for science talks, movie nights, and travel logs (where you share with others the various places you have traveled to).
 
-Next to the lounge is the bar. The more delicate woodwork with the viking pattern was handmade on station. The bar also includes a pool table (that also serves as a ping-pong table). We also feature art in the bar on Sunday (thanks Zee, for organizing that).
+Next to the lounge is the bar. The more delicate woodwork with the viking pattern was handmade on station. The bar also includes a pool table (that also serves as a ping-pong table). We also feature *Art in the Bar* on Sunday (thanks Zee, for organizing that).
 
 ![Lounge and bar](/assets/blog_photos/190120/GWR_2.jpg)
 
