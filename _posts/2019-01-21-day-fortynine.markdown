@@ -8,7 +8,7 @@ Alicia and Kelly collected a set of soil samples from the site closest to the gl
 
 ![Collecting 2-week incubation samples](/assets/blog_photos/190121/Sampling_cores_for_liquidN2.jpg)
 
-Alicia froze the samples as quickly as possible to stop any biological activity. What better way than using liquid nitrogen? One has to be careful though as the temperature of liquid nitrogen is just lower than -200<sup>o</sup> C. It actually boils at -196<sup>o</sup> C. This means that the liquid portions that touch something warmer (like our soil samples, which are nearer to 0<sup>o</sup> C) will start boiling. Alicia is well-prepared with gloves, a forceps, an insulated container (called a dewar), and a secondary containment (the bucket) to avoid any spillage.
+Alicia froze the samples as quickly as possible to stop any biological activity. What better way than using liquid nitrogen? One has to be careful though as the temperature of liquid nitrogen is just lower than -200<sup>o</sup> C. It actually boils at -196<sup>o</sup> C. This means that the liquid portions that touch something warmer (like our soil samples, which are nearer to 0<sup>o</sup> C) will start boiling. Alicia is well-prepared with gloves, a metal tong (similar to a kitchen one), an insulated container (called a dewar), and a secondary containment (the bucket) to avoid any spillage.
 
 ![Instant freezing of samples with liquid N2](/assets/blog_photos/190121/LiquidN2.jpg)
 
