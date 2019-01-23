@@ -14,6 +14,6 @@ I have a nifty device too: a tiny little infrared camera that attaches to my pho
 
 ![Temperature inside and outside the chamber](/assets/blog_photos/190122/thermalimage2.jpg)
 
-One of the observations we made was that at least one of the warmed plots had very, very green grass compared to outside the plot. Let's see if we get other striking responses (both plant or microbial!)
+One of the observations we made was that at least one of the warmed plots had very, very green grass compared to outside the plot. Could Antarctic hairgrass already be responding to our warming treatment? Let's see if we get other striking responses (both plant or microbial!).
 
 ![The grass is greener inside](/assets/blog_photos/190122/grass_warmed_control.jpg)
