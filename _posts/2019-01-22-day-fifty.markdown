@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Day fifty"
+date:   2019-01-22 12:37:39 -0600
+---
+# Are the chambers effective in raising temperatures?
+We just made a few observations today to see how the chambers are doing. We do continuously monitor soil temperatures at 2 cm depth in each plot, but these data have not been analyzed yet.
+
+In the meantime, Alicia is using a handheld digital temperature gun and aims it at various places inside each plot to get an idea of overall plot temperature. Interestingly, and as you can see, the temperature of the soil surface is far warmer (24<sup>o</sup> C) than the air (which was about 4<sup>o</sup> C). On a different note: we had a great view of crabeater seals (see the ice floe on the right) while we were working at our first site.
+
+![Alicia measuring temperature](/assets/blog_photos/190122/Alicia_temperature_Jan22.jpg)
+
+I have a nifty device too: a tiny little infrared camera that attaches to my phone. In the thermal image I created you can see that there is more red inside the open-top chamber than outside the chamber. The scale inside the right photo shows that red is warm (and white is the hottest). So our open-top chamber design is successful at increasing the soil surface temperatures inside.
+
+![Temperature inside and outside the chamber](/assets/blog_photos/190122/thermalimage2.jpg)
+
+One of the observations we made was that at least one of the warmed plots had very, very green grass compared to outside the plot. Let's see if we get other striking responses (both plant or microbial!)
+
+![The grass is greener inside](/assets/blog_photos/190122/grass_warmed_control.jpg)
