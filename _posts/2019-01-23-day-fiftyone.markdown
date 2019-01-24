@@ -12,7 +12,7 @@ Where exactly on the chronosequence are our sites located? See the graph I creat
 
 Unfortunately, nearly 90% of glaciers on the western Antarctic Peninsula are receding, and similar rates of recession have been reported elsewhere ....
 
-From the graph you can see that our sites are about 1 year, 20 years and 60 years in age. The one on Litchfield island (not shown) is likely about 1,000 years old. For us, this is a nice chronosequence to study how additional warming (with our chambers) may affect plant and microbial communities along the chronosequence.
+From the graph you can see that our sites (large bright red dots) are about 1 year, 20 years and 60 years in age. The one on Litchfield island (not shown) is likely about 1,000 years old. For us, this is a nice chronosequence to study how additional warming (with our chambers) may affect plant and microbial communities along the chronosequence.
 
 ![Glacier receding over time](/assets/blog_photos/190123/GlacierRecessionOverTime_Natasja.jpg)
 
