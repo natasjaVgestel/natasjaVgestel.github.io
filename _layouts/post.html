@@ -1,6 +1,28 @@
 ---
 layout: default
 ---
+
+<!-- navigation -->
+<div style="font-size: 14px; display: grid; grid-template-columns: auto auto auto; width: auto; overflow: hidden;">
+  <div style="text-align:left;">
+    {% if page.previous.url %}
+      <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+  </div>
+
+  <div style="text-align:center">
+    <a href="/blog">Blog List</a>
+  </div>
+
+  <div style="text-align:right;">
+    {% if page.next.url %}
+      <a href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+  </div>
+</div>
+
+
+<!-- daily blog -->
 <h1>{{ page.title }}</h1>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
@@ -8,11 +30,17 @@ layout: default
     {{ content }}
 </div>
 
-<div style="font-size: 14px; display: grid; grid-template-columns: auto auto; width: auto; overflow: hidden;">
+
+<!-- navigation -->
+<div style="font-size: 14px; display: grid; grid-template-columns: auto auto auto; width: auto; overflow: hidden;">
   <div style="text-align:left;">
     {% if page.previous.url %}
       <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
     {% endif %}
+  </div>
+
+  <div style="text-align:center">
+    <a href="/blog">Blog List</a>
   </div>
 
   <div style="text-align:right;">
