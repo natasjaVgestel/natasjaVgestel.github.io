@@ -4,7 +4,7 @@ title:  "Day fifty-three"
 date:   2019-01-25 12:37:39 -0600
 ---
 # Skyping with a school in Flagstaff
-Today was particularly special. We skyped with the Sinagua Middle School in Flagstaff. Three three of us, Kelly, Alicia and I, answered questions from students in 6th grade in Ms. Kathryn Wertz's class. Kathryn is a science teacher who loves what she does. She enjoys novel ways of introducing her students to science - including having them talk directly to us scientists in Antarctica! 
+Today was particularly special. We skyped with the Sinagua Middle School in Flagstaff. The three of us, Kelly, Alicia and I, answered questions from students in 6th grade in Ms. Kathryn Wertz's class. Kathryn is a science teacher who loves what she does. She enjoys novel ways of introducing her students to science - including having them talk directly to us scientists in Antarctica! 
 
 We held the Skype session outside - it was a sunny, beautiful (but windy!) day. The kids had a nice view of the glacier. 
 
