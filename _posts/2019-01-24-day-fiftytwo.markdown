@@ -4,8 +4,9 @@ title:  "Day fifty-two"
 date:   2019-01-24 12:37:39 -0600
 ---
 # Antarctic peatbanks and climate change
-Today I am featuring climate research using peatbank cores by Dr. Zicheng Yu from Lehigh University. His team also includes Zhengyu Xia (PhD student) and Dr. Dulcinea Groff.
-In contrast to the arctic region (where there are peatlands that have a near-surface water table), peat in Antarctica accumulates in the absence of a water table - in fact, peat here can accumulate directly on rock! Here they are called moss peatbanks (and not peatlands).
+Today I am featuring climate research using peatbank cores by Dr. Zicheng Yu from Lehigh University. Zicheng took the photos shown in today's blog. His team also includes Zhengyu Xia (PhD student) and Dr. Dulcinea Groff.
+
+In contrast to the Arctic region (where there are peatlands that have a near-surface water table), peat in Antarctica accumulates in the absence of a water table - in fact, peat here can accumulate directly on rock! Here they are called moss peatbanks (and not peatlands).
 
 ![Zicheng's team](/assets/blog_photos/190124/IMG_4562.jpg)
 
