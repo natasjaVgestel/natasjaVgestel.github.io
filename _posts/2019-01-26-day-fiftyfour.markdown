@@ -6,9 +6,9 @@ date:   2019-01-26 12:37:39 -0600
 # Surrounded by wildlife
 Today we went to Litchfield. The day started out great. First we were greeted by a friendly young female crabeater seal who had come ashore near the area where the zodiacs are launched into the water. We made sure to give her space, so she could rest in the sun.
 
-![Friendly Weddell](/assets/blog_photos/190126/Weddell_Jan26.jpg)
+![Friendly crabeater](/assets/blog_photos/190126/Weddell_Jan26.jpg)
 
-Next mammal we saw was a humpback whale. We were just dropped off by zodiac on Litchfield Island when the two whales passed us by - it was spectacular!
+Next mammal we saw was a humpback whale. We were just dropped off by zodiac on Litchfield Island when not one, but two whales passed us by - it was spectacular!
 
 ![Humpback whale with view of the Peninsula](/assets/blog_photos/190126/whale2.jpg)
 
