@@ -4,7 +4,7 @@ title:  "Day fifty-four"
 date:   2019-01-26 12:37:39 -0600
 ---
 # Surrounded by wildlife
-Today we went to Litchfield. The day started out great. First we were greeted by a friendly young Weddell (?) seal who had come ashore near the area where the zodiacs are launched into the water. We made sure to give it space, so it could rest in the sun.
+Today we went to Litchfield. The day started out great. First we were greeted by a friendly young female crabeater seal who had come ashore near the area where the zodiacs are launched into the water. We made sure to give her space, so she could rest in the sun.
 
 ![Friendly Weddell](/assets/blog_photos/190126/Weddell_Jan26.jpg)
 
