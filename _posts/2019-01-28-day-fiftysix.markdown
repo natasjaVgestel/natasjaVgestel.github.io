@@ -4,7 +4,7 @@ title:  "Day fifty-six"
 date:   2019-01-28 12:37:39 -0600
 ---
 # Icebergs and icefloes
-There are different kinds of ice in the waters surrounding Palmer station (more about land ice later). The largest ones are called icebergs. These beauties can be seriously huge. Where do they come from? These may have broken of from a glacier. Just a reminder that most of the iceberg is **below** the water surface!
+There are different kinds of ice floating in the waters surrounding Palmer station (more about land ice later). The largest ones are called icebergs. These beauties can be seriously huge. Where do they come from? These may have broken of from a glacier. Just a reminder that most of the iceberg is **below** the water surface!
 
 ![Iceberg near sunset](/assets/blog_photos/190128/iceberg_Jan13.jpg)
 
@@ -12,7 +12,7 @@ A much smaller version of an iceberg may be called a bergy bit. For comparison, 
 
 ![Iceberg versus bergy bit](/assets/blog_photos/190128/icebergs_diffshapes.jpg)
 
-And here is another example of a bergy bit - a striking one at that! Note that the color of the ice depends on the color of the water. In turn, the color of the water depends on weather (cloudly versus sunny!). So, on sunny versus cloudy days, the ice will color-wise look very different.
+And here is another example of a bergy bit - a striking one at that! Note that the color of the ice depends on the color of the water. In turn, the color of the water depends on weather . So, on sunny versus cloudy days, the ice will (color-wise) look very different. Ice may show blues from turquoise to deep blue to nearly violet.
 
 ![Striking bergy bit](/assets/blog_photos/190128/p1060464.jpg)
 
