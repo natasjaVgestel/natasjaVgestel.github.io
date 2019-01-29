@@ -4,7 +4,7 @@ title:  "Day fifty-six"
 date:   2019-01-28 12:37:39 -0600
 ---
 # Icebergs and icefloes
-There are different kinds of ice floating in the waters surrounding Palmer station (more about land ice later). The largest ones are called icebergs. These beauties can be seriously huge. Where do they come from? These may have broken of from a glacier. Just a reminder that most of the iceberg is **below** the water surface!
+There are different kinds of ice floating in the waters surrounding Palmer station (more about land ice later). The largest ones are called icebergs. These beauties can be seriously huge. Where do they come from? These may have broken off from a glacier. Just a reminder that most of the iceberg is **below** the water surface!
 
 ![Iceberg near sunset](/assets/blog_photos/190128/iceberg_Jan13.jpg)
 
@@ -16,6 +16,6 @@ And here is another example of a bergy bit - a striking one at that! Note that t
 
 ![Striking bergy bit](/assets/blog_photos/190128/p1060464.jpg)
 
-If the ice is quite flat as in the example below, the floating ice could be called an ice floe. These seem to be the preferred form of ice for seals to lounge in. The left photo shows three crabeater seals and the photo on the right shows a leopard seal, an important top predator in these waters.
+If the ice is quite flat as in the example below, the floating ice could be called an ice floe. These seem to be the preferred form of ice for seals to lounge in. The left photo shows three crabeater seals and the photo on the right shows a leopard seal, an important top predator in these waters. 
 
 ![Seals on ice - crabeater and leopard seals](/assets/blog_photos/190128/seals_floes.jpg)
