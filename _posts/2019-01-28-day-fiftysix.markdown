@@ -12,7 +12,7 @@ A much smaller version of an iceberg may be called a bergy bit. For comparison, 
 
 ![Iceberg versus bergy bit](/assets/blog_photos/190128/icebergs_diffshapes.jpg)
 
-And here is another example of a bergy bit - a striking one at that! Why is it even blue? Ice can have lots of air bubbles, but if compressed (say if positioned lower down in a glacier because it was formed a long time ago), the air bubbles disappear. This means the light can travel a longer distance in the ice, no longer hindered by all the air bubbles; a longer distance traveled means short wavelengths of light can be transmitted - which is blue!  
+And here is another example of a bergy bit - a striking one at that! Why is it even blue? Ice can have lots of air bubbles, but if compressed (say if positioned lower down in a glacier because it was formed a long time ago), the air bubbles disappear. This means the light can travel a longer distance in the ice, no longer hindered by all the air bubbles; a longer distance traveled means only the short wavelengths of light can be transmitted - which is blue!  
 
 Ice may show blues from turquoise to deep blue to nearly violet. Some of the ice color depends not only on the air bubbles, but also on the color of the water (and the color of the water depends on whether it is a sunny or cloudy day!). 
 
