@@ -16,7 +16,7 @@ Today I want to focus on a very cool fish (ok, also a pun!) that Debbie's team, 
 
 ![Young icefish](/assets/blog_photos/190130/icefish.jpg)
 
-What is neat about this particular species of fish is that they have colorless (transparent) blood! In fact, they are the only vertebrates to have this colorless blood. These fish lack hemoglobin - hemoglobin is what colors our blood red. Hemoglobin is what carries oxygen in our blood and in other animals. How do these ice fish still get enough oxygen?? For starters, cold water has higher oxygen levels than warm water. 
+What is neat about this particular species of fish is that they have colorless (transparent) blood! In fact, they are the only vertebrate to have this colorless blood. These fish lack hemoglobin - hemoglobin is what colors our blood red. Hemoglobin is what carries oxygen in our blood and in other animals. How do these ice fish still get enough oxygen?? For starters, cold water has higher oxygen levels than warm water. 
 
 Furthermore, icefish have adaptations that allow it to circulate blood more efficiently:
 * They have thinner blood (because of lack of red blood cells)
