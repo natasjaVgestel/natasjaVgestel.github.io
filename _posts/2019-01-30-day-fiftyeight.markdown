@@ -24,4 +24,6 @@ Furthermore, icefish have adaptations that allow it to circulate blood more effi
 * They have more blood vessels that reach certain fish organs (e.g. eyes)
 * They have large blood vessels
 
-All in all, they can pump far larger volumes of blood around in their body than fish that have hemoglobin. Combined with the higher oxygen in the water, they are all set to not even need the hemoglobin! These are pretty cool fish!
+All in all, they can pump far larger volumes of blood around in their body than fish that have hemoglobin. Combined with the higher oxygen in the water, they are all set to not even need the hemoglobin! These are pretty cool fish! 
+
+And yes, I agree that they look like miniature dragons! 
