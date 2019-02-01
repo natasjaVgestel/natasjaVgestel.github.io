@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Day sixty"
+date:   2019-02-01 12:37:39 -0600
+---
+# Skua-proofing: 
+You may remember that on [day 39](https://natasjavgestel.github.io/blog/2019/01/11/day-thirtynine) skuas had pulled out some of our incubation cores in the control plots. Skuas are very, very curious! More recently we installed colorful resin strips in the soil that help us determine how fertile the soil is (see photo below). The purple one is negatively charged and attracts negatively charged nutrients such as ammonium, whereas the orange one is positively charged and attracts nutrients such as nitrate. We bury these for 1 month. How to keep these strips safe from the Skuas? 
+
+![Skuas and nutrient probes](/assets/blog_photos/190201/Skua_Ioffe.jpg)
+(photo of Skua was taken by a fellow passenger on a 2011 trip to Antarctica)
+
+## Plan 1: a mesh barrier
+On Litchfield we used chickenwire and placed this strategically over the resin strips and the remaining incubation cores in control plots. Now they cannot even access it. They have not bothered those items in the warmed plots, so the warmed plots do not need the chichenwire.
+
+![Chickenwire at Litchfield](/assets/blog_photos/190201/Litchfield_Chickenwire.jpg)
+
+## Plan 2: camouflage
+We actually ran out of chickenwire (as Litchfield was done first). However, we managed to camouflage the resin strips so that they resemble the surrounding area.
+
+![grey cloth for strips](/assets/blog_photos/190201/Site1_camo.jpg)
+
+Some we covered with grey cotton shirt material (right photo above) and others with camo trousers (thank you Romy, for pointing out that pants are something different in the UK). 
+
+![camo cloth for strips](/assets/blog_photos/190201/20190131_171707_001.jpg)
+
+## Plan 4: lab incubation
+Alicia is now also running a temperature incubation in the lab. This means we do not solely rely on the field experiment. Skuas definitely do not have access to our labs!
+
+Now let's see if we outsmarted them - so far so good!
+
+![Observant skua](/assets/blog_photos/190201/Skua_BonapartePoint.jpg)
