@@ -3,7 +3,7 @@ layout: post
 title:  "Day fifty-six"
 date:   2019-01-28 12:37:39 -0600
 ---
-# Icebergs and icefloes
+# Icebergs and icefloes - 
 There are different kinds of ice floating in the waters surrounding Palmer station (more about land ice later). The largest ones are called icebergs. These beauties can be seriously huge. Where do they come from? These may have broken off from a glacier. Just a reminder that most of the iceberg is **below** the water surface!
 
 ![Iceberg near sunset](/assets/blog_photos/190128/iceberg_Jan13.jpg)

@@ -3,7 +3,7 @@ layout: post
 title:  "Day fifty-nine"
 date:   2019-01-31 12:37:39 -0600
 ---
-# Favorite site
+# Favorite site - 
 Today we took carbon flux measurements on Litchfield Island. We measure how much CO<sub>2</sub> the plants are taking up (through photosynthesis) and we measure how much CO<sub>2</sub> is leaving the ecosystem (at least the ecosystem within the collar that we measure). The net balance between the two is important: will warming result in more CO<sub>2</sub> leaving the soil or will warming positively affect plants so they take up more CO<sub>2</sub>? If warming has a greater effect on CO<sub>2</sub> leaving the ecosystem, this would be bad news. Why? because the reduced capacity of ecosystems to take up atmospheric CO<sub>2</sub> would lead to more CO<sub>2</sub> accumulating in the atmosphere and thus contributing to more warming!
 
 Litchfield may be my favorite site. It is a specially protected area that requires a permit (mine is ACA 2019-007) and thus only few people have visited here. 

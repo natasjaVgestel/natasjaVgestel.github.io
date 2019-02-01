@@ -3,7 +3,7 @@ layout: post
 title:  "Day fifty-one"
 date:   2019-01-23 12:37:39 -0600
 ---
-# Chronosequence
+# Chronosequence - 
 We implemented a warming experiment (using open-top chambers) along a chronosequence. A chronosequence is essentially a series of sites that have certain things in common, such as climate, parent material (e.g. in our case it is the glacial till that was underneath the glacier), etc., but they vary in age. We use a chronosequence as a way to understand how vegetation and communities develop. For example, close to the glacier we have a site with no plants at all (because the soils there were only very recently exposed) and more vegetation nearer to Palmer Station (because these have been ice-free since the 1960s). Because climate is similar and the geologic material also, we can predict that the sites near the glacier to become more similar to the site close to the station (in terms of plant and soil microbial communities). 
 
 ![Chronosequence expectation](/assets/blog_photos/190123/ChronosequenceExpectation.jpg)

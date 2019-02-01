@@ -3,7 +3,7 @@ layout: post
 title:  "Day five"
 date:   2018-12-08 12:37:39 -0600
 ---
-# Our first full day at Sea
+# Our first full day at Sea - 
 The first stretch of our journey is smooth. There are a few albatrosses around as well as dolphins. The black-and-white Commerson's dolphins are the first marine mammals that we sighted. 
 
 ![Dolphins and albatross](/assets/blog_photos/181208/p1060099_2.jpg)

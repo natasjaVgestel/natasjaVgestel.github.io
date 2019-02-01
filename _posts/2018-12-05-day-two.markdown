@@ -3,7 +3,7 @@ layout: post
 title:  "Day two"
 date:   2018-12-05 12:37:39 -0600
 ---
-# Our equipment has arrived safely on the vessel
+# Our equipment has arrived safely on the vessel - 
 Many months ago, back in August, Kelly and I sent many boxes filled with scientific equipment to California. They have made their way to Punta Arenas, Chile. Today they were finally loaded on board. 
 
 ![Loaded!](/assets/blog_photos/181205/p1060057.jpg)

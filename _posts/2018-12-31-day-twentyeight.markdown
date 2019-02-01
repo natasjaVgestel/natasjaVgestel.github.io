@@ -4,7 +4,7 @@ title:  "Day twenty-eight"
 date:   2018-12-31 12:37:39 -0600
 ---
 
-# Pre-treatment measurements
+# Pre-treatment measurements - 
 Today we made our very first set of carbon flux measurements. We placed a clear chamber onto the stainless steel collars that we had inserted into soil last week. This provides for a great seal - we do not want any air leaks! Because the chambers are clear we have two concurrent processes: we have carbon going into the ecosystem through photosynthesis by the plants enclosed within that chamber (the chamber is clear, so plants receive light for photosynthesis), but there is also respiration (microbes and plants respire CO2, just like we do). Our devices measure the change in CO2 concentrations within the chamber for a short period. Does the CO2 increase (meaning there is more CO2 being respired than is taken up through photosynthesis, thereby increasing CO2 concentrations)? Or, does the CO2 decrease (i.e., are plants removing more CO2 from the air than is released through respiration?).
 
 Thanks, Doc (Dr. Rich Harper), for the great photo of Kelly and I measuring CO2 fluxes with the LI-6800.

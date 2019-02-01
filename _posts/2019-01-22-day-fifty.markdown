@@ -3,7 +3,7 @@ layout: post
 title:  "Day fifty"
 date:   2019-01-22 12:37:39 -0600
 ---
-# Are the chambers effective in raising temperatures?
+# Warmer in chambers - 
 We just made a few observations today to see how the chambers are doing. We do continuously monitor soil temperatures at 2 cm depth in each plot, but these data have not been analyzed yet.
 
 In the meantime, Alicia is using a handheld digital temperature gun and aims it at various places inside each plot to get an idea of overall plot temperature. Interestingly, and as you can see, the temperature of the soil surface is far warmer (24<sup>o</sup> C) than the air (which was about 4<sup>o</sup> C). We found this pattern also at our other sites, where soil surface temperatures in general (inside or outside our plots) are far higher than air temperatures. On a different note: we had a great view of crabeater seals (see the ice floe on the right) while we were working at our first site.

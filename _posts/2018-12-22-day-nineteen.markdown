@@ -3,7 +3,7 @@ layout: post
 title:  "Day nineteen"
 date:   2018-12-22 12:37:39 -0600
 ---
-# Protocols written
+# Protocols written - 
 It was a foggy/rainy/snowy day. A great day for indoor activity. I wrote up the protocols to use in the field regarding how to measure carbon fluxes. The protocols will help in standardizing our measurements. Standardization is good - in field ecology we already deal with lots of variability. A protocol will help minimize variability caused by the user. Reproducibility is key to science.
 
 # Marr Ice Piedmont

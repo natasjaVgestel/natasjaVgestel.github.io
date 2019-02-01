@@ -3,7 +3,7 @@ layout: post
 title:  "Day thirty-four"
 date:   2019-01-06 12:37:39 -0600
 ---
-# Alicia's experiment
+# Alicia's experiment - 
 First, I would like to thank our Doc, Rich Harper, for spending his free day helping us. We worked about seven hours in the backyard today. It was really fun and he kept us entertained with many stories! 
 
 ![Doc entertaining us](/assets/blog_photos/190106/p1070346.jpg)

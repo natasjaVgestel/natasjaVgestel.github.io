@@ -3,7 +3,7 @@ layout: post
 title:  "Day fifty-five"
 date:   2019-01-27 12:37:39 -0600
 ---
-# The receding glacier
+# The receding glacier - 
 The glacier behind Palmer Station has been receding about 10 meters per year on average (see [day 51](https://natasjavgestel.github.io/blog/2019/01/23/day-fiftyone)). The glacier covers most of Anvers Island. From Palmer Station we have nice view of the glacier across Arthur Harbor. I took this photo last night at twilight.  
 
 ![Marr Ice Piedmont across Arthur Harbor](/assets/blog_photos/190127/Glacier_Jan26.jpg)

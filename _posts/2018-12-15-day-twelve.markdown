@@ -4,7 +4,7 @@ title:  "Day twelve"
 date:   2018-12-15 12:37:39 -0600
 ---
 
-# Litchfield Island
+# Litchfield Island - 
 
 Today we explored Litchfield Island to find suitable sites for my warming experiment. This island is an Antarctic Specially Protected Area (or ASPA). It is off limits to visitors unless you have a permit. The reason is because this area contains some prime examples of vegetation found on the Antarctic Peninsula. There are beautiful moss beds and stunning lichen. We treaded carefully as we examined some suitable sites. One thing to avoid: the lower lying areas - these will soon be filled with elephant seals instead!
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Day four"
 date:   2018-12-07 12:37:39 -0600
 ---
-# Let the Journey begin
+# Let the Journey begin - 
 Today we depart for Antarctica. The journey will take four days, including two days on the infamous [Drake Passage][Drake]. This area is known to have the roughest seas in the world. Hopefully our ship, the RV [Laurence Gould][Gould], named after famous explorer and scientist [Laurence McKinley Gould][LMG] will take us through safely.
 
 ![Our research vessel](/assets/blog_photos/181207/p1060075.jpg)

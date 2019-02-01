@@ -3,7 +3,7 @@ layout: post
 title:  "Day forty-six"
 date:   2019-01-18 12:37:39 -0600
 ---
-# Humpback whales
+# Humpback whales - 
 Today our group went aboard the cruiseship Zaandam to give presentations about the science on station. We had a great time and met many wonderful people. 
 
 We saw several humpback whales from the vessel, including one centrally located in the photo below. The number of whales increases as the summer progresses. Humpbacks migrate from lower latitude areas (e.g. Central and South America) where they breed to high latitude areas (such as near Palmer Station) where they find plenty of food.

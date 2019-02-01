@@ -3,7 +3,7 @@ layout: post
 title:  "Day eleven"
 date:   2018-12-14 12:37:39 -0600
 ---
-# At Palmer
+# At Palmer - 
 At Palmer Station I have a desk upstairs where my window overlooks the pier. This provides me with a different perspective of the ship that I have called home for the last few days.
 
 ![View from my office window](/assets/blog_photos/181214/p1060283.jpg)

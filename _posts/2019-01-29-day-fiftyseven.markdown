@@ -3,7 +3,7 @@ layout: post
 title:  "Day fifty-seven"
 date:   2019-01-29 12:37:39 -0600
 ---
-# Food at Palmer Station
+# Food at Palmer Station - 
 A hearty thank you (pun intended!) to chef Francis and sous-chef Derrick for creating the culinary feasts on station. As you can see they are most serious about their work (no, seriously, they are!).
 
 ![Francis and Derrick](/assets/blog_photos/190129/theChefs.jpg)

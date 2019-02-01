@@ -3,7 +3,7 @@ layout: post
 title:  "Day thirty-one"
 date:   2019-01-03 12:37:39 -0600
 ---
-# The Marr Ice Piedmont glacier
+# The Marr Ice Piedmont glacier - 
 The glacier that has retreated behind Palmer Station (located on Anvers Island) is called the Marr Ice Piedmont. Here I am standing on top of the glacier, with the mountains of the Antarctic Peninsula behind me. 
 
 ![Historic photo of Palmer station and glacier](/assets/blog_photos/190103/p1060500.jpg)

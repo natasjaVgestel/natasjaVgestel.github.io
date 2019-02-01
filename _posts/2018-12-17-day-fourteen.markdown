@@ -4,7 +4,7 @@ title:  "Day fourteen"
 date:   2018-12-17 12:37:39 -0600
 ---
 
-# Safety training
+# Safety training - 
 Safety is one of the top priorities at Palmer Station. Today Kelly and I had Island Survival Training. We learned what is in the boat bag and the three survival bins, each set of three bins strategically placed on different islands. I learned how to light the tiny stove, tie various knots (including my favorite butterfly knot), throw a rope to someone in the water, use the GPS (including setting a waypoint quickly if there is a person overboard), and set up the tent that is in the boat bag. 
 
 # My study area

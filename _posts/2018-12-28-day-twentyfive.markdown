@@ -3,7 +3,7 @@ layout: post
 title:  "Day twenty-five"
 date:   2018-12-28 12:37:39 -0600
 ---
-# Plant productivity gradient completed
+# Plant productivity gradient completed - 
 The day started out sunny and promising. We headed over to Litchfield Island to set up our fourth and final (highest plant productivity) site. This beautiful island requires a special permit, the Antarctic Conservation Act permit, to enter because it is an Antarctic Specially Protected Area (ASPA). According to the ASPA description, this island "possesses rich growths of vegetation and has the most varied topography and the greatest diversity of terrestrial habitats of the islands in Arthur Harbor". 
 
 ![Litchfield beauty](/assets/blog_photos/181228/181228_litchfieldsites1.jpg)

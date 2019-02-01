@@ -3,7 +3,7 @@ layout: post
 title:  "Day fifty-eight"
 date:   2019-01-30 12:37:39 -0600
 ---
-# Cool fish
+# Cool fish - 
 There are several research groups at Palmer Station. One of the groups is led by [Dr. Debbie Steinberg](http://www.vims.edu/people/steinberg_dk/) from the College of William & Mary, Virginia Institute of Marine Science. They study the role of zooplankton in the marine ecosystem. Zooplankton comes from the Greek word "zoon" (= animal) and "planktos" (= drifter). Zooplankton are thus animals that drift in the ocean, and hence "go with the flow" (pun intended!). 
 
 Given that Palmer Station is on an Island, we are thus surrounded by ocean water. There is lots of life, including zooplankton!

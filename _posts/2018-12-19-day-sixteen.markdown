@@ -4,7 +4,7 @@ title:  "Day sixteen"
 date:   2018-12-19 12:37:39 -0600
 ---
 
-# Successes
+# Successes - 
 
 ## First success 
 Today we tested our scientific instruments called LI-CORs that measure carbon in the air. We will use these to measure how much carbon is entering and leaving the ecosystem. Carbon enters the ecosystem through photosynthesis and leaves the ecosystem through respiration. My interest is in the net balance between these two fluxes and how warming affects this balance.

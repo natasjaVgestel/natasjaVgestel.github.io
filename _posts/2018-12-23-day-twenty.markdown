@@ -3,7 +3,7 @@ layout: post
 title:  "Day twenty"
 date:   2018-12-23 12:37:39 -0600
 ---
-# Inclement weather
+# Inclement weather - 
 Alas, when the snow moved horizontal past my window I knew we would not be able to go outside. We still need to find two other two sites in the Palmer Backyard (as the deglaciated area behind Palmer Station is nicknamed). Being confined to indoors today, we made ourselves useful. Kelly was able to find strategic ways by which we could safely transport the LI-COR instruments. Thanks to frame backpacks kindly provided by Marissa and Kelly's creativity, we are now able to more comfortably hike with the LI-CORs.
 
 ![Inclement weather](/assets/blog_photos/181223/p1060655.jpg)

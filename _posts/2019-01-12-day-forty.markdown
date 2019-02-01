@@ -3,7 +3,7 @@ layout: post
 title:  "Day forty"
 date:   2019-01-12 12:37:39 -0600
 ---
-# Plant productivity gradient 
+# Plant productivity gradient - 
 It may seem somewhat suprising that there are plants in Antarctica, so far south and far away from other continents. 
 
 ![Remoteness of Palmer](/assets/blog_photos/190112/20181216_073954.jpg)

@@ -3,7 +3,7 @@ layout: post
 title:  "Day thirty-six"
 date:   2019-01-08 12:37:39 -0600
 ---
-# Field incubation experiment completed!
+# Field incubation experiment completed! - 
 It was cold yesterday and again today. I wanted to toughen it out, but finally relented: I decided to mimic Kelly and Alicia and keep my hands warm in a creative way. There are three steps: attach a toe warmer to the palm of your hand, slide a thin warm glove over that, and then use the lab gloves over that so we can work in a sterile way. Why not use the handwarmer? Because the toe warmer has a sticky side for easy attachment to your hand. Alicia is applying this method while adding the water to the samples (right photo below). You can also see she uses a absorbing pad in case there are tiny spills (but there were none - she's amazing!)
 
 ![Innovative way to keep hands warm](/assets/blog_photos/190108/cold.jpg)
