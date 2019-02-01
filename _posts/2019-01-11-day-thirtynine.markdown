@@ -3,7 +3,7 @@ layout: post
 title:  "Day thirty-nine"
 date:   2019-01-11 12:37:39 -0600
 ---
-# Skua sabotage - 
+# Skua sabotage: 
 It started out sunny and promising! We headed to Litchfield to check on our plots. Best commute in the world: beautiful blue skies, seals on ice floes and the breathtaking scenery (Thanks Dave and Carolyn for taking us on the zodiac!). On our hike up to our site you can see Palmer station just behind peatbank hill (round the corner on the photo), with Mount William situated majestically behind.
 
 ![Litchfield view of Palmer area](/assets/blog_photos/190111/Litchfield_190111.jpg)

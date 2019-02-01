@@ -3,7 +3,7 @@ layout: post
 title:  "Day twenty-nine"
 date:   2019-01-01 12:37:39 -0600
 ---
-# Day two of pre-treatment measurements - 
+# Day two of pre-treatment measurements: 
 We had some issues of condensation inside our small custom chamber. Condensation prevents some light from reaching the plants inside the chamber and so the plants do not photosynthesize as much. I learned today that Antarctica's plants are extremely sensitive and respond nearly immediately to changes in light conditions. The condensation thus poses a problem. What do do? An experiment.
 
 Megan and Darren Roberts, who do bird research here, suggested toothpaste because divers sometimes use that to prevent condensation inside their goggles. I had used soap when I snorkeled - but toothpaste? 

@@ -3,7 +3,7 @@ layout: post
 title:  "Day nine"
 date:   2018-12-12 12:37:39 -0600
 ---
-# Fog - and more fog - 
+# Fog - and more fog: 
 It sure was a foggy day. Not much to see. So, today is a great opportunity to share with you the research that is done on Cape Shirreff (see day 8 blog).
 
 ![Fog all day](/assets/blog_photos/181212/p1060204.jpg)

@@ -4,7 +4,7 @@ title:  "Day fifteen"
 date:   2018-12-18 12:37:39 -0600
 ---
 
-# Chamber prep - 
+# Chamber prep: 
 Today we worked on prepping the materials that secure the chamber to the ground. To secure the chamber we have one metal wire rope that loops around the chamber. This loop contains 4 nails in cardinal directions that are attached by keyrings, bolts and rope to the wire rope. These nails will be hammered into the ground. First the nails needed to be spread out evenly along the wire rope and tightened. I call it Kelly's necklace, which she is showing off (left photo). Then we needed to attach the two ends of the wire rope to each other using ferrules and a swage tool (see right photo as Kelly is clamping the ferrules tight with the swage tool). 
 
 ![Items to secure the chambers](/assets/blog_photos/181218/181218labwork.jpg)

@@ -3,7 +3,7 @@ layout: post
 title:  "Day thirty-three"
 date:   2019-01-05 12:37:39 -0600
 ---
-# Leopard seals - 
+# Leopard seals: 
 A few days ago, on December 31, we had the rare opportunity to see not one, but *two* (!) leopard seals from our study site. These seals truly have perfected the art of dozing and relaxation, with the occasional yawns (left photo; thank you, Rich Harper, for letting me use your camera for these shots!).
 
 ![Leopard seal dozing and yawning](/assets/blog_photos/190105/leopardseal_181231.jpg)

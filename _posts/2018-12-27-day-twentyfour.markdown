@@ -3,7 +3,7 @@ layout: post
 title:  "Day twenty-four"
 date:   2018-12-27 12:37:39 -0600
 ---
-# "Backyard" sites done - 
+# "Backyard" sites done: 
 We had a very long day today. Most of the time was spent searching for suitable plots. Not too shallow, not too barren (some plants should be in there), not too rocky. Let alone that this whole area has shallow soils that overlay bedrock, and that vegetation is sporadic. Almost an impossible task! 
 Leave that to us: we found sites that matched our criteria and they were situated about half-way in between our other two sites (our highly vegetated site by the station and the bare soil site near the glacier). Perfect! 
 

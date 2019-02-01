@@ -3,7 +3,7 @@ layout: post
 title:  "Day thirty-seven"
 date:   2019-01-09 12:37:39 -0600
 ---
-# Women in Science - Homeward Bound Program - 
+# Women in Science - Homeward Bound Program: 
 Today we had the opportunity to come aboard a vessel that carries the participants of the [Homeward Bound Program][HB3]. There were 80 participants, all women the fields of Science, Technology, Engineering, Mathematics, and Medicine (STEMM). 
 
 First we had to brave some brash ice on the way to their ship. Slowly but surely we approached the dark blue ship on the horizon.

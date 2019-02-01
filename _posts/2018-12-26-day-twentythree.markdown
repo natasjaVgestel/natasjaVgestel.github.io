@@ -3,7 +3,7 @@ layout: post
 title:  "Day twenty-three"
 date:   2018-12-26 12:37:39 -0600
 ---
-# Mutual exchange of knowledge - 
+# Mutual exchange of knowledge: 
 Today was a great day - we had visitors from the [RRS James Clark Ross][RRS]. It is a marine research vessel of the British Antarctic Survey. Several people from the vessel visited Palmer Station and many of us were invited onboard.
 
 ![RRS James C Ross](/assets/blog_photos/181226/181226_JamesClarkRoss.jpg)

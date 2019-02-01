@@ -3,7 +3,7 @@ layout: post
 title:  "Day eighteen"
 date:   2018-12-21 12:37:39 -0600
 ---
-# Instruments in working order - 
+# Instruments in working order: 
 We have two LI-COR instruments (an older and a recent model) that measure carbon fluxes. We wanted to make sure the two instruments were measuring similarly. A big thanks to the LI-COR company, particularly Doug Lynch, for providing excellent support during these trying times. 
 
 We tested the instruments by measuring respiration rates from a peeled clementine. We placed the clementine inside our custom chamber to measure the rate of carbon dioxide increase inside the chamber. 

@@ -3,7 +3,7 @@ layout: post
 title:  "Day forty-one"
 date:   2019-01-13 12:37:39 -0600
 ---
-# Rec boating - 
+# Rec boating: 
 Recreational boating is a great way to explore the Palmer area. Rec boating occurs when people have some time off from work or research. So rec boating usually occurs in the evenings or on Sundays. And what a paradise to do so! Last night we visited Cormorant Island. On the way there the sea looked like quicksilver - simply stunning!
 
 ![Last night January 12](/assets/blog_photos/190113/p1080101.jpg)

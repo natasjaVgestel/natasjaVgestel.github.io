@@ -4,7 +4,7 @@ title:  "Day twenty-seven"
 date:   2018-12-30 12:37:39 -0600
 ---
 
-# Mosses in Antarctica - 
+# Mosses in Antarctica: 
 Antarctica is a harsh but beautiful environment. Less than 1% of land in Antarctica is ice-free. Additionally, there are seasonal extremes in light conditions: from nearly sun all the time, to no sun at all! The photo below was taken at around 12:15 am - truly the land of the midnight sun! 
 
 ![Sunset on December 29](/assets/blog_photos/181230/p1070015.jpg)

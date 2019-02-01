@@ -4,7 +4,7 @@ title:  "Day thirteen"
 date:   2018-12-16 12:37:39 -0600
 ---
 
-# Cruisin' - 
+# Cruisin': 
 
 What a day. The sun came out, beckoning to us to explore the surrounding islands and icebergs. Eight of us went out on a zodiac to do just that. The first mammals we saw were crabeater seals - they are the most numerous of seals globally, but are distributed only around the Antarctic continent. Their name is a misnomer: they mostly eat Antarctic krill, not crab. 
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Day thirty-five"
 date:   2019-01-07 12:37:39 -0600
 ---
-# Litchfield incubation experiment - 
+# Litchfield incubation experiment: 
 We set up the soil incubation experiment at Litchfield a similar way as we did for experimental plots in the backyard (see [day 34](https://natasjavgestel.github.io/blog/2019/01/06/day-thirtyfour)). To get to Litchfield there is a short boat ride involved! We had company also: Dr. Zicheng Yu and his team who will be examining the beautiful moss peatbanks. But more about his interesting research later!
 
 ![Headed to Litchfield in a Solas](/assets/blog_photos/190107/20190107_screenshot.jpg)

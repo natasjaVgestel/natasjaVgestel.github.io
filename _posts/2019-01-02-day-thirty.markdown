@@ -3,7 +3,7 @@ layout: post
 title:  "Day thirty"
 date:   2019-01-02 12:37:39 -0600
 ---
-# The Backyard area - 
+# The Backyard area: 
 Our main study site is the area between the Palmer Research Station and the glacier that has receded several hundred meters. It is known here as the "Backyard". 
 
 We have walked miles and miles in the Backyard since our arrival. Keri Nelson took a photo of us during one of our many treks to our study plots.

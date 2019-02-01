@@ -3,7 +3,7 @@ layout: post
 title:  "Day forty-seven"
 date:   2019-01-19 12:37:39 -0600
 ---
-# Palmer Station - part I - 
+# Palmer Station - part I: 
 Palmer station is one of three US research stations in Antarctica. With the capacity to house up to 44 people, it is also the smallest station in Antarctica. Palmer is the only US station above the Antarctic Circle and accessible year-round. The climate at Palmer station is by far the mildest of the three US research stations, with an average temperature of 2<sup>o</sup> Celsius (C) in the austral summer and around -10<sup>o</sup> C in winter.
 
 ![Palmer station and area](/assets/blog_photos/190119/p1060400.jpg)

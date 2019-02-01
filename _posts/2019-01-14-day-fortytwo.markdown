@@ -3,7 +3,7 @@ layout: post
 title:  "Day forty-two"
 date:   2019-01-14 12:37:39 -0600
 ---
-# Outreach! - 
+# Outreach! 
 At Palmer Station we love what we do. In my case, it is my climate change research. One way to share my excitement about my research is by talking to students at schools in Lubbock, TX, and in Flagstaff, AZ! These are Northridge Elementary School (Lubbock) and Sinagua Middle School (Flagstaff). The three of us, Kelly, Alicia and I, will be talking to them late January and in early February! 
 
 Meanwhile we have been doing outreach by engaging with other scientists (e.g. those on board the James Clark Ross who visited us earlier), staff and scientists from other Antarctic stations (e.g. from the nearby Chilean base) or with tourists! There is a limit as to how many cruise ships Palmer Station can handle (and number of passengers on board), otherwise it would be hard to get science done! 

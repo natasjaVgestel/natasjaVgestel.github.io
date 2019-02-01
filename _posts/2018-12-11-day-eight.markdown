@@ -3,7 +3,7 @@ layout: post
 title:  "Day eight"
 date:   2018-12-11 12:37:39 -0600
 ---
-# Cape Shirreff - 
+# Cape Shirreff: 
 Today we were helping scientists set up camp at [Cape Shirreff][shirreff] on Livingston Island. The camp is a US operated field station. The scientists are spending four months here. We had a rare treat: the view of mountains about eight miles away. 
 
 ![Mountains at Cape Shirreff](/assets/blog_photos/181211/p1060166.jpg)
