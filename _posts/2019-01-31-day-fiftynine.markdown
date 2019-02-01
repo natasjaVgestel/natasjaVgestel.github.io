@@ -18,7 +18,7 @@ To get good carbon flux measurements we have to air the chamber in between measu
 
 We will take weekly measurements so we can also see how the vegetation responds over the rest of the Antarctic growing season. 
 
-I look forward to being back every time. It is a beautiful site.
+I can't wait to be back there.
 
 ![Lit up chambers](/assets/blog_photos/190131/P1080603.jpg)
 
