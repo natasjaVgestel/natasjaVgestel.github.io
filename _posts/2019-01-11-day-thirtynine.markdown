@@ -21,6 +21,6 @@ Guess who was watching us as we were searching? You guessed it: skuas.
 
 ![Skuas observing](/assets/blog_photos/190111/skuas_190111.jpg)
 
-We returned to the lab to figure out how to make our site skua proof. Zee gave us chickenwire, and we cut these to the size of our plots. We returned tonight to lay these over our plots and secured them with the nails that delineate our plots (and Randy gave us extra nails).
+We returned to the lab to figure out how to make our site skua proof. Zee gave us chickenwire, and we cut these to the size of our plots. We returned tonight to lay these over our plots and secured them with the nails that delineate our plots (and Randy gave us extra nails). See [day 60](https://natasjavgestel.github.io/blog/2019/02/01/day-sixty) for the photo. 
 
 We also have a backup plan: we are adding a lab experiment where we incubate samples at different temperatures. Definitely skua-proof.
