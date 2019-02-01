@@ -7,8 +7,8 @@ title: Natasja's Blog
 
 	  {% for post in site.posts %}
 	    <li>
-        <h1><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1>
-        <p>{{ post.excerpt | truncatewords:40 }}</p>
+        <h2><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt | strip_html | truncatewords:40 }}</p>
       </li>
 	  {% endfor %}
 	</ul>
