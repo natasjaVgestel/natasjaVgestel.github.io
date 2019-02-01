@@ -6,7 +6,7 @@ date:   2019-02-01 12:37:39 -0600
 # Skua-proofing: 
 You may remember that on [day 39](https://natasjavgestel.github.io/blog/2019/01/11/day-thirtynine) skuas had pulled out some of our incubation cores in the control plots. Skuas are very, very curious! More recently we installed colorful resin strips in the soil that help us determine how fertile the soil is (see photo below). The purple one is negatively charged and attracts negatively charged nutrients such as ammonium, whereas the orange one is positively charged and attracts nutrients such as nitrate. We bury these for 1 month. How to keep these strips safe from the Skuas? 
 
-![Skuas and nutrient probes](/assets/blog_photos/190201/Skua_Ioffe.jpg)
+![Skua resting](/assets/blog_photos/190201/Skua_Ioffe.jpg)
 
 (photo of Skua was taken by a fellow passenger on a 2011 trip to Antarctica)
 
