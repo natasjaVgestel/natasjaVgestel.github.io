@@ -3,8 +3,8 @@ layout: post
 title:  "Day sixty-one"
 date:   2019-02-02 12:37:39 -0600
 ---
-# A story of whales and krill 
-The last two weeks numerous humpback whales have been sighted near Palmer Station. On [day 46](https://natasjavgestel.github.io/blog/2019/01/18/day-fortysix) I mentioned that about 2 million of these majestic creatures had been killed. Humans can have such a dramatic impact on marine life. However, with the ban on whale hunting, it is obvious (at least in this area) that there is some rebound of the population - but not yet to the same extent as before the massive killing period. Below is a photo by Marissa from January 22nd that she took near Palmer Station. 
+# A story of whales and krill:  
+The last two weeks numerous humpback whales have been sighted near Palmer Station. On [day 46](https://natasjavgestel.github.io/blog/2019/01/18/day-fortysix) I mentioned that about 2 million of these majestic creatures had been killed. Humans can have such a dramatic impact on marine life. However, with the ban on whale hunting, it is obvious (at least in this area) that there is some rebound of the population - but not yet to the same extent as before the massive killing period. Below is a photo by Marissa from January 22nd that she took near Palmer Station (Palmer Station is in the background). 
 
 ![Whale at Palmer Station](/assets/blog_photos/190202/Whales_Marissa.jpg)
 
