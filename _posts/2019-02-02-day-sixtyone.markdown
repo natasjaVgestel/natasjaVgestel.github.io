@@ -15,7 +15,7 @@ Researchers measure the lengths of krill and also perform bioacoustic surveys (m
 The estimated biomass of krill in the Southern Ocean is about 500 million tonnes! They congegrate in enormous swarms - lucky for the animals that eat them! Their combined biomass is highest of any multicellular animal on this planet. 
 
 Krill are actually pretty cute.....
-And now we know they are a very important food source for many other marine species. They are in essence the fuel of marine life.
+And now we know they are a very important food source for many other marine species, such as whales. They are in essence the fuel of marine life.
 
 ![Krill research](/assets/blog_photos/190202/Krill_byLeighWest.jpg)
 
