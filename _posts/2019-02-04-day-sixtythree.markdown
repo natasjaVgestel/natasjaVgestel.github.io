@@ -14,8 +14,10 @@ What comes in must come out also. Scientists Logan and Greg were able to collect
 
 ![fecal sample](/assets/blog_photos/190204/Fecal_sample.jpg)
 
+The more solid material that sank to the bottom of the beaker is what will be investigated further - for example, are there any fish bones such as otoliths? So, Greg is getting the sample ready by removing the liquid above.
+
 All in all we are learning more and more about whale ecology here at Palmer Station.
 
 ![Searching for whales](/assets/blog_photos/190204/Searching_For_Whales_Keri.jpg)
 
-Thanks, Keri for the great photo of Logan and Greg searching for whales (below).
+Thanks, Keri for the great photo of Logan and Greg searching for whales (above).
