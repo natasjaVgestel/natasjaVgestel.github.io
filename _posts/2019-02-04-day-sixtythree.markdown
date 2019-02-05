@@ -16,6 +16,6 @@ What comes in must come out also. Scientists Logan and Greg were able to collect
 
 All in all we are learning more and more about whale ecology here at Palmer Station.
 
-![Searching for whales](/assets/blog_photos/190204/IMG_5948.jpg)
+![Searching for whales](/assets/blog_photos/190204/Searching_For_Whales_Keri.jpg)
 
 Thanks, Keri for the great photo of Logan and Greg searching for whales (below).
