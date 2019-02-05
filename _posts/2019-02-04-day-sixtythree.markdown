@@ -14,7 +14,7 @@ What comes in must come out also. Scientists Logan and Greg were able to collect
 
 ![Fecal sample](/assets/blog_photos/190204/Fecal_sample.jpg)
 
-The more solid material that sank to the bottom of the beaker is what will be investigated further - for example, are there any fish bones such as otoliths? So, Greg is getting the sample ready by removing the liquid above.
+The more solid material that sank to the bottom of the nalgene bottle is what will be investigated further - for example, are there any fish bones such as otoliths? So, Greg is getting the sample ready by discarding the liquid above.
 
 All in all we are learning more and more about whale ecology here at Palmer Station.
 
