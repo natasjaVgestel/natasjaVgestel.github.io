@@ -12,7 +12,7 @@ They may work together to create the bubble net and provide plenty of food for o
 
 What comes in must come out also. Scientists Logan and Greg were able to collect a fecal (fancy word for poo) sample from a whale recently. It appeared as a bright red-orange cloud in the water. Greg deftly scooped it up as Logan steered the zodiac. Greg is apparently more excited about the fecal sample than Logan (compare left and right photos below). The red-orange color is another indication that krill is an important food source for whales.
 
-![fecal sample](/assets/blog_photos/190204/Fecal_sample.jpg)
+![Fecal sample](/assets/blog_photos/190204/Fecal_sample.jpg)
 
 The more solid material that sank to the bottom of the beaker is what will be investigated further - for example, are there any fish bones such as otoliths? So, Greg is getting the sample ready by removing the liquid above.
 
