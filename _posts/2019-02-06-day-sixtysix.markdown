@@ -10,7 +10,7 @@ Today was a busy day packing our samples. The Gould will carry our samples back 
 
 Alicia's samples include most of the incubation cores from the field, and a few collections of samples for sequencing. Other labs were packing up also, including Dr. Zicheng Yu's lab. They are sending back peat cores so they can make inferences about historical climate (at least of the last few thousand years, depending on the depth of their peat cores - see [day 52](https://natasjavgestel.github.io/blog/2019/01/24/day-fiftytwo))
 
-![Zicheng's frozen samples](/assets/blog_photos/190207/P1090529.jpg)
+![Zicheng's frozen samples](/assets/blog_photos/190207/P1090529.JPG)
 
 All the samples were carried to the labs on the ship. It was a smooth operation thanks to the Marine Lab Technician from the Gould and Amy Brummit, the Palmer logistics person.
 
