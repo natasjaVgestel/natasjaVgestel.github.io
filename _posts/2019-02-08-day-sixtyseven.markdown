@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day sixty-seven"
-date:   2019-02-07 12:37:39 -0600
+date:   2019-02-08 12:37:39 -0600
 ---
 # The moss chamber:  
 We are measuring carbon fluxes in the field. The problem is: we do not know the contribution of various plants (and microbes) to those fluxes. To learn more about the individual plants, we will be taking measurements in my lab. 
