@@ -8,17 +8,17 @@ Communication is key, not only for planning the fieldwork, but also for survival
 
 Here is an example of Leslie Neu with the radio (she also took the last photo in this blog).
 
-![Leslie on the radio](/assets/blog_photos/19010/Radio_Leslie.jpg)
+![Leslie on the radio](/assets/blog_photos/190210/Radio_Leslie.jpg)
 
 Radio communication at larger distances is possible because we have a repeater on the top of the glacier. A repeater receives a signal at one frequency and transmits the same signal at a different frequency. It is solar powered because of the remoteness. It needs to be on a high spot in the landscape, because signals travel in a straight line (thus it cannot curve around a hill). It is analogous to what stickers say on a semitruck: *if you cannot see me (in my mirror), I cannot see you*. Same with the repeater - it can only receive and transmit if you can see it, also from afar (binoculars may be needed to see it).
 
 So, the top of the glacier is ideal! 
 
-![Repeater on the glacier](/assets/blog_photos/19010/Repeater_glacier.jpg)
+![Repeater on the glacier](/assets/blog_photos/190210/Repeater_glacier.jpg)
 
 It is absolutely beautiful there. The repeater sees the following amazing view every day:
 
-![Repeater - penguins tobogganing tracks](/assets/blog_photos/19010/Penguin_toboggan_repeater.jpg)
+![Repeater - penguins tobogganing tracks](/assets/blog_photos/190210/Penguin_toboggan_repeater.jpg)
 
 Apparently, even the penguins make it on top of the glacier as you can see from their tobogganing tracks. 
 
