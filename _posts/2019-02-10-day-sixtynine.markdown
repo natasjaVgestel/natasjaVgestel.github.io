@@ -22,6 +22,6 @@ It is absolutely beautiful there. The repeater sees the following amazing view e
 
 Apparently, even the penguins make it on top of the glacier as you can see from their tobogganing tracks. 
 
-Our smooth way of communication is possible because of the hard work by PJ. PJ has become a good friend of mine. He is working hard to ensure the research at Palmer Station is succesful. Thank you PJ!
+Our smooth way of communication is possible because of the hard work by PJ. PJ has become a good friend of mine. He is working hard to ensure the research at Palmer Station is successful. Thank you PJ!
 
 ![PJ - photo by Leslie](/assets/blog_photos/190210/PJ_photoFromLeslie.jpg)
