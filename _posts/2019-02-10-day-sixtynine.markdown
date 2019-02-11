@@ -10,7 +10,7 @@ Here is an example of Leslie Neu with the radio (she also took the last photo in
 
 ![Leslie on the radio](/assets/blog_photos/190210/Radio_Leslie.jpg)
 
-Radio communication at larger distances is possible because we have a repeater on top of the glacier. A repeater receives a signal at one frequency and transmits the same signal at a different frequency. It is solar powered because of the remoteness. It needs to be on a high spot in the landscape, because signals travel in a straight line (thus it cannot curve around a hill). It is analogous to what stickers say on a semitruck: *if you cannot see me (in my mirror), I cannot see you*. Same with the repeater - it can only receive and transmit if you can see it, also from afar (but you would need binoculars to see it!).
+Radio communication at larger distances is possible because we have a repeater on top of the glacier. A repeater receives a signal at one frequency and transmits the same signal at a different frequency. It is solar powered because of the remoteness. It needs to be on a high spot in the landscape, because signals travel in a straight line (thus it cannot curve around a hill). It is analogous to what stickers say on a semitruck: *if you cannot see me (in my mirror), I cannot see you*. Same with the repeater - it can only receive and transmit if you can see it, even from afar (but you would need binoculars to see it!).
 
 So, the top of the glacier is ideal! 
 
