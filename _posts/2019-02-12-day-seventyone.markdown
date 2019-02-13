@@ -10,7 +10,8 @@ I was very impressed with the insightful questions! It was obvious they had done
 
 ![Moss and the Peninsula mountains](/assets/blog_photos/190212/moss_Peninsula.jpg)
 
-Mr. Morrison, the principal, had asked a question about the buildings and facilities. I did not even know where to begin! How to convey the sense of community of about 40 people on station, the research support or the comfort of Palmer Station, and all the amenities therein!  
+Mr. Morrison, the principal, had asked a question about the buildings and facilities. I did not even know where to begin! How to convey the sense of community of about 40 people on station, the research support or the comfort of Palmer Station, and all the amenities therein!
+
 ![Skua and Palmer Station](/assets/blog_photos/190212/skua_PalmerStation.jpg)
 
 After the Skype session, I had a renewed sense of hope for our future. These kids were amazing, just like the kids from the Sinagua Middle School with whom we Skyped earlier (see [day 53](https://natasjavgestel.github.io/blog/2019/01/25/day-fiftythree)). A brighter future is ahead, I am certain of it.
