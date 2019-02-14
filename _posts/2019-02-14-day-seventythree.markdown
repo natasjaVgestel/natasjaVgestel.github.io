@@ -10,7 +10,7 @@ Today I want to feature the research of Marissa Goerke, a research associate at 
 
 This lab is equipped with state-of-the-art equipment, all operated by Marissa. She is involved in over 10 projects, including projects from the National Science Foundation (NSF - the federal agency that funds my project) and the National Oceanic and Atmospheric Administration (NOAA). Several projects are part of a global network, such as the global seismograph network (which registers earthquakes all around the world). 
 
-Other projects need air sampling that examines the gases in the air (see left photo below). Antarctica is isolated by an entire ocean (the Southern Ocean) from the rest of the planet. Thus, air samples should be the cleanest anywhere in the world, and thus particularly valuable for science! Some of the air samples will be analyzed for carbon dioxide, oxygen and halocarbons. Another project uses a magnetometer, which enables you to "listen" to lightning all around the world (see right photo below for the device)!
+Other projects require air sampling (see left photo below for an example of a bottle that will store air). Antarctica is isolated by an entire ocean (the Southern Ocean) from the rest of the planet. Thus, air samples should be the cleanest anywhere in the world, and thus particularly valuable for science! Some of the air samples will be analyzed for carbon dioxide, oxygen and halocarbons. Another project uses a magnetometer, which enables you to "listen" to lightning all around the world (see right photo below for the device)!
 
 ![Monitoring equipment](/assets/blog_photos/190214/Marissa.jpg)
 
