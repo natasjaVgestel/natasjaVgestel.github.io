@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day seventy-four"
-date:   2019-02-14 12:37:39 -0600
+date:   2019-02-15 12:37:39 -0600
 ---
 # Waste management - keeping Antarctica pristine:   
 Let me introduce you to Rob and Nándor who are ensuring that waste at Palmer Station is processed properly. Rob deals, as he stated to me, with the "tail end of science". Any hazardous waste, such as from labwork (chemicals) or heavy machinery (e.g. oil, fuel), is collected and compartmentalized. This waste will eventually make it all the way back to California. However, it first travels from Palmer Station to McMurdo (also in Antarctica), so not via a direct route! This is thus likely the most traveled waste on this planet!
