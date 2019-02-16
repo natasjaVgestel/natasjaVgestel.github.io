@@ -12,6 +12,6 @@ There is also lots of recycling on station. In fact, recycling comprises about 7
 
 ![Recycling](/assets/blog_photos/190215/Recycling.jpg)
 
-Thanks to the teamwork of these two, Palmer Station is contributing towards ensuring that tourists, scientists, and future generations can enjoy (or enjoy to work in) a pristine region of Antarctica. Thanks Rob and Nándi!
+Thanks to the teamwork of these two, Palmer Station is contributing towards ensuring that tourists, scientists, and future generations can enjoy (or enjoy work in) a pristine region of Antarctica. Thanks Rob and Nándi!
 
 ![Tourists](/assets/blog_photos/190215/P1080225.jpg)
