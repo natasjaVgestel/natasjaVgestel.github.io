@@ -14,6 +14,6 @@ The first two women to winter-over at Palmer Station were Ann and Rebecca in 198
 
 ![other winter-overs](/assets/blog_photos/190216/Winter_Over_1983-2018.jpg)
 
-The winter-overs will arrive in April, when most of the station (including me) return home. It is also called the *turnover boat*  There is a slight time-overlap, so I will get to meet them briefly. They will remain here until early October. 
+The winter-overs will arrive in April, when most of the station (including me) return home. It is also called the *turnover boat*. There is a slight time-overlap, so I will get to meet them briefly. They will remain here until early October. 
 
 Life does slow down a bit in winter. Aside from more limited science during winter compared to summer, the station will also be better able to get major maintenance or repairs done on the buildings (summers are simply too hectic to work on big projects). Winter is also a good time to check on the next summer's inventory to keep Palmer Station's operations running smoothly. 
