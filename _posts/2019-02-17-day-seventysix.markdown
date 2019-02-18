@@ -4,7 +4,7 @@ title:  "Day seventy-six"
 date:   2019-02-17 12:37:39 -0600
 ---
 # Civilization:   
-Recently a colleague asked me when I was headed back to civilization. I knew he meant to a place with more internet. But it made me question the word *civilization*. 
+Recently a colleague asked me when I was returning to civilization. I knew he meant to a place with more internet. But it made me question the words *returning to civilization*. 
 
 Here at Palmer Station, people are kind, hard-working, and respectful. Each and everyone of us contributes to the Palmer community in our own way. We have events, such as an art show, travel logs (where people share their experiences of places they traveled to), science talks, movie nights, and we celebrate the Holidays and birthdays (see photo below). 
 
