@@ -11,7 +11,7 @@ The marine technicians (MTs) at Palmer Station effectively enable science. They:
 * They teach safety trainings and boat operator training (see my training on [day 44](https://natasjavgestel.github.io/blog/2019/01/16/day-fortyfour))
 * Lead the Ocean Search and Rescue (OSAR)
 * Do the rigging and loading/off-loading cargo
-* Help keep morale up! Aside from being a fun group to work with, they also cheerleaded for my nephew Marc (see right photo below) who tore his ACL and had a bone chipped during basketball training. 
+* Help keep morale up! Aside from being a fun group to work with, they also cheerleaded (see right photo below) for my nephew Marc who tore his ACL and had a bone chipped during basketball training. 
 
 ![Marc](/assets/blog_photos/190218/Marc.jpg)
 
@@ -19,7 +19,7 @@ The boathouse is their main base of operations. Aside from doing repairs there, 
 
 ![Boathouse](/assets/blog_photos/190218/Inside_BoatHouse.jpg)
 
-Although they are *marine* tecnhicians, this is actually a misnomer - they have assisted me with my terrestrial work also: one of my field sites is on Litchfield Island. Although now we can take the zodiacs ourselves to Litchfield Island (which is fun!), it is sometimes easier for the boathouse to keep the zodiac for other projects going on that day, so we are often dropped off and picked up again. 
+Although they are *marine* tecnhicians, this is actually a misnomer - they have assisted me with my terrestrial work also: one of my field sites is on Litchfield Island. Even though we now can take the zodiacs ourselves to Litchfield Island (which is fun!), it is sometimes easier for the boathouse to keep the zodiac for other projects going on that day, so we are often dropped off and picked up again. 
 
 Thank you Mike Burns, David Moore and Jakob Bueche. You are all awesome!
 
