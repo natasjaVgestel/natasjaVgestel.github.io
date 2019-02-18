@@ -10,7 +10,7 @@ Here at Palmer Station, people are kind, hard-working, and respectful. Each and 
 
 ![Celebrations](/assets/blog_photos/190217/celebrations.jpg)
 
-Everyone of us also has a task that keeps the station going: the carpenters, electricians, the marine technicians (for boating operations), the radio operator (a duty shared by several people), the chefs, the information technology people, and so on. We also work together in keeping the buildings clean, no distinction based on what you do here - a contractor or scientist: everyone is treated equally. Dishes/kitchen cleaning are done by groups of people every evening - all of us take a turn. 
+Everyone of us has a task that keeps the station going: the carpenters, electricians, the marine technicians (for boating operations), the radio operator (a duty shared by several people), the chefs, the information technology people, and so on. We also work together in keeping the buildings clean, no distinction based on what you do here - a contractor or scientist: everyone is treated equally. Dishes/kitchen cleaning are done by groups of people every evening - all of us take a turn. 
 
 ![Happy](/assets/blog_photos/190217/Family.jpg)
 
