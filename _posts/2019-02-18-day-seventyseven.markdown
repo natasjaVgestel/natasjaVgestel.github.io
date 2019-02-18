@@ -4,14 +4,14 @@ title:  "Day seventy-seven"
 date:   2019-02-18 12:37:39 -0600
 ---
 # Marine Technicians:   
-The marine technicians (MTs) at Palmer Station are simply *enablers* of science. They:
+The marine technicians (MTs) at Palmer Station effectively enable science. They:
 * Schedule who takes what zodiac, solas or RHIBs (Rigid Hull Inflatable Boats)
 * Ensure all these boats are operating well
 * Assist the researchers with ocean sampling
 * They teach safety trainings and boat operator training (see my training on [day 44](https://natasjavgestel.github.io/blog/2019/01/16/day-fortyfour))
 * Lead the Ocean Search and Rescue (OSAR)
 * Do the rigging and loading/off-loading cargo
-* Help keep morale up! Aside from being a fun group to work with, the also cheerleaded for my nephew Marc (see right photo below) who tore his ACL and had a bone chipped during basketball training. 
+* Help keep morale up! Aside from being a fun group to work with, they also cheerleaded for my nephew Marc (see right photo below) who tore his ACL and had a bone chipped during basketball training. 
 
 ![Marc](/assets/blog_photos/190218/Marc.jpg)
 
