@@ -10,7 +10,7 @@ In early years, there were only about 6-8 people remaining on station during win
 
 ![1965 winter-overs](/assets/blog_photos/190216/winterOver_1965.jpg)
 
-The first two women to winter-over at Palmer Station were Ann and Rebecca in 1983 (see left photo), nearly 20 years after Palmer Station was built! Women are now more common in the winter-over group (see right photo for the 2018 winter) - we have one this upcoming winter also: Kim Bernard, a scientist from Oregon State University who studies zooplankton. 
+The first two women to winter-over at Palmer Station were Ann and Rebecca in 1983 (see left photo), nearly 20 years after Palmer Station was built! Women are now more common in the winter-over group (see right photo for the 2018 winter). This upcoming winter there are at least five women: a scientist (Kim Bernard from Oregon State University), a chef, a lab assistant and two in logistics. 
 
 ![other winter-overs](/assets/blog_photos/190216/Winter_Over_1983-2018.jpg)
 
