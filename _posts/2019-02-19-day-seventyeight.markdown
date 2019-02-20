@@ -14,7 +14,7 @@ To minimize disturbance to Litchfield Island - because it is an Antarctic Specia
 
 ![Flat Stanley at Amsler](/assets/blog_photos/190219/FlatStanley_onAmsler.jpg)
 
-We returned a few days later to Amsler Island with others. It was a sunny day. Below Flat Stanley is waiting for a ride back to Palmer Station. It was an exhausting day!
+We returned a few days later to Amsler Island with others to go hiking. It was a sunny day. Below Flat Stanley is waiting for a ride back to Palmer Station. It was an exhausting day!
 
 Thank you Flat Stanley, for being our travel buddy! Give our regards to Jack when you return!
 
