@@ -10,7 +10,7 @@ To my knowledge, this Flat Stanley is the first to have made it to Litchfield Is
 
 ![Flat Stanley at Litchfield](/assets/blog_photos/190219/IMG_0144.jpg)
 
-To minimize disturbance to Litchfield Island because it is an Antarctic Specially Protected Area, we sampled moss from Amsler Island. There was still a lot of snow on the island (see photo below). Flat Stanley selected some suitable sites for moss collection and then rested while we worked. 
+To minimize disturbance to Litchfield Island - because it is an Antarctic Specially Protected Area - we sampled moss from different islands, such as Amsler Island. There was still a lot of snow on Amsler island (see photo below). Flat Stanley selected some suitable sites for moss collection and then rested while we worked. 
 
 ![Flat Stanley at Amsler](/assets/blog_photos/190219/FlatStanley_onAmsler.jpg)
 
