@@ -4,7 +4,7 @@ title:  "Day seventy-eight"
 date:   2019-02-19 12:37:39 -0600
 ---
 # Flat Stanley:   
-Flat Stanley is a character from a book that gets flattened by a bulletin board. Because he is as flat as a sheet of paper, he is able to travel all around the world. A week or so ago Flat Stanley accompanied us on a few adventures. He was sent to me by Jack from Eagle Springs Elementary. Jack's Flat Stanley has been places no other Flat Stanleys has been! 
+Flat Stanley is a character from a book that gets flattened by a bulletin board. Because he is as flat as a sheet of paper, he is able to travel all around the world. A week or so ago he arrived here at Palmer Station, Antarctica. Flat Stanley accompanied us on a few adventures here. He was sent to me by Jack from Eagle Springs Elementary. Jack's Flat Stanley has been places no other Flat Stanleys has been! 
 
 To my knowledge, this Flat Stanley is the first to have made it to Litchfield Island. Only few people in the world have ventured there, let alone any Flat Stanleys! At Litchfield, Kelly and I collected small moss samples to bring back with us to the lab. Flat Stanley observed we were careful with collecting the small moss plugs.
 
