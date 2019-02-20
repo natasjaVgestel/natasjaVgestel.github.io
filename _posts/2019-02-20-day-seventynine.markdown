@@ -4,7 +4,7 @@ title:  "Day seventy-nine"
 date:   2019-02-20 12:37:39 -0600
 ---
 # Boating:   
-Probably one of the best things to be in research: independent. Early on before we had boating training, we were shuttled between Litchfield Island and Palmer Station. So, we were always dependent on others. This is no longer the case thanks to careful training by the MTs (see [day 45](https://natasjavgestel.github.io/blog/2019/01/17/day-fortyfive). When possible, Kelly and I drive the zodiac ourselves. They are fun! 
+Probably one of the best things to be in research: independent. Early on before we had boating training, we were shuttled between Litchfield Island and Palmer Station. So, we were always dependent on others. This is no longer the case thanks to careful training by the MTs (see [day 45](https://natasjavgestel.github.io/blog/2019/01/17/day-fortyfive)). When possible, Kelly and I drive the zodiac ourselves. They are fun! 
 
 ![Natasja on zodiac](/assets/blog_photos/190220/P1010435.jpg)
 
