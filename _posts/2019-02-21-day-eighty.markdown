@@ -8,6 +8,6 @@ During the Lubbock elementary school Skype session one of the students asked me 
 
 ![Sun pillar and the Gould](/assets/blog_photos/190221/SunPillar.jpg)
 
-A sun pillar is created when there are millions of tiny pieces of flakey ice crystals that gently descend from the upper sky downward. These ice crystals, which are mostly oriented horizontally as they slowly descend, reflect the sunlight, thereby creating a stunning beam of light. This can also happen to other light sources, or even after the sun has set.
+A sun pillar is created when there are millions of tiny pieces of flaky ice crystals that gently descend from the upper sky downward. These ice crystals, which are mostly oriented horizontally as they slowly descend, reflect the sunlight, thereby creating a stunning beam of light. This can also happen to other light sources, or even after the sun has set.
 
 So, my favorite thing in Antarctica? The unexpected.
