@@ -16,6 +16,6 @@ Recently I also drove the Solas and loved it. This was when I volunteered to hel
 
 ![Natasja in the solas](/assets/blog_photos/190220/IMG-20190220-WA0003.jpg)
 
-It certainly was a spectacular day - the Joubin islands were beautiful, the waters clear and the area filled with wildlife: penguins, birds and seals. The return trip was beautiful also, filled with golden light from the slowly setting sun. Experiencing this from the zodiac is exhilirating!
+It certainly was a spectacular day - the Joubin islands were beautiful, the waters clear and the area filled with wildlife: penguins, birds and seals. The return trip was beautiful also, filled with golden light from the slowly setting sun. Experiencing this from the zodiac is exhilarating!
 
 ![Beautiful light on the water](/assets/blog_photos/190220/IMG-20190218-WA0008.jpg)
