@@ -13,7 +13,7 @@ Lichens can have different growth forms, mostly determined by the fungal partner
 
 We even found a lichen that resembled the Antarctic continent (bottom right)!
 
-![Lichen communities](/assets/blog_photos/190223/Lichen.jpg)
+![Lichen communities](/assets/blog_photos/190223/Lichen2.jpg)
 
 The moss-lichen communities are particularly striking at Litchfield Island. Lichens and moss grow intertwined, creating a rich carpet of moss-lichen communities. In the foreground of the photo below you can see the rock that is below this incredible carpet! Clearly, life is thriving here, even on bare rock!
 
