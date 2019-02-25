@@ -17,6 +17,6 @@ Lichens have several adaptations that allow them to survive the extreme environm
 
 Lichens are slow growers, only growing about 1 cm per 100 years. Thus, seeing large mats of them, one can only imagine how long ago they have started to grow. The thick carpets from Litchfield shown in yesterday's blog thus provides evidence that Litchfield has remained ice-free for many hundreds (perhaps thousands) of years. 
 
-It is possible that moss growth may facilitate growth of certain lichen. Moss may start growing straignt on rocks (see below, top photo) or in cracks where water may collect (bottom photo), thereby providing a substrate for lichen. It is a sight to behold when you see the lichen-moss gardens in this area. They are species-diverse, beautifying an already beautiful landscape. 
+It is possible that moss growth may facilitate growth of certain lichen. Moss may start growing straight on rocks (see below, top photo) or in cracks where water may collect (bottom photo), thereby providing a substrate for lichen. It is a sight to behold when you see the lichen-moss gardens in this area. They are species-diverse, beautifying an already beautiful landscape. 
 
 ![Lichen on rock and in cracks](/assets/blog_photos/190224/Lichen-Moss_Rock_Bonaparte.jpg)
