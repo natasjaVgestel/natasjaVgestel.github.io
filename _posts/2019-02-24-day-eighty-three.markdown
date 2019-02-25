@@ -4,7 +4,7 @@ title:  "Day eighty-three"
 date:   2019-02-24 12:37:39 -0600
 ---
 # Antarctic lichens - part II:   
-There are about 300 to 400 lichen species in Antarctica. The western Antarctic Peninsula, where Palmer Station is located, has the highest number of lichen on the Antarctic continent. That is because this area is the warmest and wettest of the entire Antarctic continent. 
+There are about 300 to 400 lichen species in Antarctica. The western Antarctic Peninsula, where Palmer Station is located, has the highest number of lichen species on the Antarctic continent. That is because this area is the warmest and wettest of the entire Antarctic continent. 
 
 Lichens have thrived here - they are the dominant vegetation on the Antarctic continent. I have seen lichen have the most incredible shapes, such as a heart-shape (see the fruticose lichen in the top left photo), or resemble cauliflower and grow directly on moss (top right photo), a tree-shape (see *Usnea antarctica*, bottom left photo), or have beautiful cup-shaped fruiting bodies (bottom right photo).
 
