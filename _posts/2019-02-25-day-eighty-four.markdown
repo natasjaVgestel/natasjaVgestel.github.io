@@ -10,6 +10,6 @@ So, we measured photosynthetic rates of several moss species to better understan
 
 ![Cute moss plugs](/assets/blog_photos/190225/IMG_0294.jpg)
 
-We also determined how green area each moss plug has (because this is the photosynthesizing part) using calipers. It was simply adorable to hold each of them in my hands. These moss samples will be taken back with us, so they can be stored at the herbarium in the Biological Sciences department at Texas Tech. The herbarium is under the direction of Dr. Matt Johnson - a moss expert (who named a -70 <sup>o</sup>C freezer after an Antarctic moss: *Chorisodontium*!).
+We also determined how much green area each moss plug has (because this is the photosynthesizing part) using calipers. They are simply adorable to hold. These moss samples will be taken back with us, so they can be stored at the herbarium in the Biological Sciences department at Texas Tech. The herbarium is under the direction of Dr. Matt Johnson - a moss expert (who named a -70 <sup>o</sup>C freezer after an Antarctic moss: *Chorisodontium*!).
 
 ![Caliper measurements](/assets/blog_photos/190225/measuringMoss.jpg)
