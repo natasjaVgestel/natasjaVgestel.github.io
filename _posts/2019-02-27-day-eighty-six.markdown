@@ -12,6 +12,6 @@ Before deploying to Antarctica everyone undergoes a comprehensive physical exam.
 
 So, what happens in a medical emergency here at Palmer Station? It is likely that a call will be issued to all ships in the vicinity of Palmer Station to see who could take the patient to the British Antarctic Survey at Rothera Research Station, about 400 km further south. Rothera is key in increasing the survivorship because they are only 4 flight hours away (they have an air strip for planes) from Punta Arenas where a large hospital is located. 
 
-The message? Stay safe and be very, very careful when doing research here.
+The message? Stay safe and be very, very careful when working here.
 
 Thank you, Rich, for looking out for us.
