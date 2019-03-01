@@ -4,7 +4,7 @@ title:  "Day eighty-seven"
 date:   2019-02-28 12:37:39 -0600
 ---
 # Thwaites Glacier and climate change:   
-In yesterday's entry I discussed a medical emergency aboard the Antarctic research vessel the Nathaniel Palmer. This ship was at Thwaites Glacier conducting climate change research, a project that is a joint effort being US and UK scientists. 
+In yesterday's entry I discussed a medical emergency aboard the Antarctic research vessel the Nathaniel Palmer. This ship was at Thwaites Glacier conducting climate change research, a project that is a joint effort between US and UK scientists. 
 
 ![Nathaniel Palmer at Rothera](/assets/blog_photos/190228/NathanielPalmerAtRothera.jpg)
 
