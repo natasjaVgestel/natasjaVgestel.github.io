@@ -21,7 +21,3 @@ I sipped my hot chocolate and just sat, and sat.. and watched.
 Enjoy the view with me:
 
 ![Glacier scenery](/assets/blog_photos/190301/ViewAtop.jpg)
-
-
-
-
