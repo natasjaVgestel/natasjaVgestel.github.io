@@ -10,6 +10,6 @@ As mentioned earlier, lichens are communities and they contain photosynthesizing
 
 ![Xanthoria](/assets/blog_photos/190302/P1100589.jpg)
 
-There are also grasses in the foreground. Kelly and I had collected some moss samples so we can measure how fast plants are photosynthesizing, but we had not looked at grasses or lichen - or at least, not yet. We sampled only a few specimens of these, and someone is extremely happy with them!
+There are also grasses in the foreground. Kelly and I had collected some moss samples so we can measure how fast moss are photosynthesizing, but we had not looked at grass or lichen - or at least, not yet. We sampled only a few specimens of these, and someone is extremely happy with them!
 
-![Deschampsia plants and a few lichen](/assets/blog_photos/190302/Kelly_Deschampsia.jpg)
+![hairgrass and a few lichen](/assets/blog_photos/190302/Kelly_Deschampsia.jpg)
