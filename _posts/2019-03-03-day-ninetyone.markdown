@@ -3,7 +3,7 @@ layout: post
 title:  "Day ninety-one"
 date:   2019-03-04 12:37:39 -0600
 ---
-# Radio watch
+# Radio watch:
 Today I volunteered to do the radio watch. For safety reasons all boats communicate with Palmer Station regarding where they are leaving from and when they arrive at a destination. Additionally, all boats need to check in every half an hour to let Palmer Station know whether all is well. Radio watch is thus an important task: to keep track of where everyone is. This is crucial information - in case anything happens, we can deploy the Ocean Search and Rescue (OSAR) boat to help in an emergency.  
 
 ![Natasja on Radio Watch](/assets/blog_photos/190304/P1110199.jpg)
