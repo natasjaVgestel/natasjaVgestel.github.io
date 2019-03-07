@@ -14,6 +14,6 @@ In the photo below they are working on putting in a new weather tower.
 
 ![Putting in a new tower](/assets/blog_photos/190307/new_antenna.jpg)
 
-They have been to the South Pole and McMurdo also to work on the towers and antennae there. One large benefit (at least in my opinion) is that they get to travel to places no one else goes: for example, to the top of the mountains near McMurdo, where they are dropped off by helicopter. Fascinating to be in a place only few will ever venture, but a necessity for safe science and support operations. 
+They have been to the South Pole and McMurdo also to work on the towers and antennae there. One large benefit (at least in my opinion) is that they get to travel to places no one else goes: for example, to the top of the mountains near McMurdo, where they are dropped off by helicopter. Fascinating to be in a place only few will ever venture to, but a necessity for safe science and support operations. 
 
 Thank you, Levi and Andy for enabling the communication and data collection in Antarctica.
