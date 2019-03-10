@@ -12,6 +12,6 @@ The females are quite docile. When you encounter female elephant seals on land, 
 
 The Southern Elephant seals dive on average about 300-400 meter below the water surface. Males are deeper divers than the females. The [record depth for a diving male](https://link.springer.com/article/10.1007/s00300-010-0782-3) was 2133 meters. These seals are the deepest diving mammals after the cetaceans.
 
-All in all, these gentle giants (at least the females) are very impressive. Looking into the soulful eyes of the females, one cannot help but admire them.
+All in all, these gentle giants (at least the females) are very impressive. Looking into the soulful eyes of the females (and ignoring the shedding of their top layer of skin and fur), one cannot help but admire them.
 
 ![Southern Elephant seals dozing](/assets/blog_photos/190309/ElephantSeals.jpg)
