@@ -4,7 +4,7 @@ title:  "Day ninety-nine"
 date:   2019-03-12 12:37:39 -0600
 ---
 # The Gould returns:
-It is pretty impressive to watch a ship like the Gould reverse into position along the pier. The first thing to happen is to secure the ship with ropes attached to massive pillars on shore. The ship's ropes are massive, so smaller ropes are used to guide the larger ropes from the ship to the shore. This process of securing the ropes is done with the help of line handlers (volunteers on station) who work as a team. 
+It is pretty impressive to watch a ship like the Gould reverse into position along the pier. The first thing to happen is to secure the ship with ropes attached to massive pillars on shore. The ship's ropes are thick and heavy, so smaller ropes are used to guide the larger ropes from the ship to the shore. This process of securing the ropes is done with the help of line handlers (volunteers on station) who work as a team. 
 
 ![Line handlers](/assets/blog_photos/190312/LineHandlers.jpg)
 
