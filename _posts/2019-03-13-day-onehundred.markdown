@@ -33,4 +33,4 @@ I cannot express the feeling of seeing the sheer abundance of wildlife and to wa
 ## Scenery
 The backdrop of my field experiment is one of captivating beauty, graced with a glacier that covers most of Anvers Island, and the sheer mountain peaks of the Antarctic Peninsula behind it. Here is a sunset photo of a couple of weeks ago from atop the glacier. Simply..... magnificent. 
 
-![View from the top of the Marr Ice piedmont glacier](/assets/blog_photos/190313/ViewAtop.jpg)
+![Sunset on top of the Marr Ice Piedmont glacier](/assets/blog_photos/190313/top_of_glacier.jpg)
