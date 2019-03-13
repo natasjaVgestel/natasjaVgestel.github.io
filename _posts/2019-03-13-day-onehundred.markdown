@@ -11,7 +11,7 @@ Setting up the field experiment was not an easy task as the sites were hard to f
 
 ![Sites 3 and 1](/assets/blog_photos/190313/Sites1_3.jpg)
 
-Our last site had some extra challenges: First, the curious skuas were attracted to our plots with the fancy tags, soil cores, and chambers (see [day 39](https://natasjavgestel.github.io/blog/2019/01/11/day-thirtynine). Second, there were fur seals to avoid on the hike up, and also we found them lounging near our site. However, they generally were too sleepy to bother us, which was fine by us! (but we still kept an eye on them).
+Our last site had some extra challenges: First, the curious skuas were attracted to our plots with the fancy tags, soil cores, and chambers (see [day 39](https://natasjavgestel.github.io/blog/2019/01/11/day-thirtynine)). Second, there were fur seals to avoid on the hike up, and also we found them lounging near our site. However, they generally were too sleepy to bother us, which was fine by us! (but we still kept an eye on them).
 
 ![Sleepy fur seal while taking measurements](/assets/blog_photos/190313/IMG_6956.jpg)
 
@@ -33,4 +33,4 @@ I cannot express the feeling of seeing the sheer abundance of wildlife and to wa
 ## Scenery
 The backdrop of my field experiment is one of captivating beauty, graced with a glacier that covers most of Anvers Island, and the sheer mountain peaks of the Antarctic Peninsula behind it. Here is a sunset photo of a couple of weeks ago from atop the glacier. Simply..... magnificent. 
 
-![On top of the Marr Ice piedmont glacier](/assets/blog_photos/190313/ViewAtop.jpg)
+![View from the top of the Marr Ice piedmont glacier](/assets/blog_photos/190313/ViewAtop.jpg)
