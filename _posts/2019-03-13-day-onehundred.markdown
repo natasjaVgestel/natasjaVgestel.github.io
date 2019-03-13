@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Day one hundred"
-date:   2019-03-12 12:37:39 -0600
+date:   2019-03-13 12:37:39 -0600
 ---
-# Some highlights:
+# Highlights of Antarctica:
 Today is a special day - the one hundredth day of my field season. Therefore, I will share with you some of the highlights during my stay Antarctica. I also want to take this opportunity to acknowledge the [National Science Foundation](https://www.nsf.gov/div/index.jsp?div=OPP) who funded my research and believing in its importance also. My research, in collaboration with the [Center for Ecosystem Science and Society](http://ecoss.nau.edu/), truly is at the frontier of climate change science and literally at the Earth's frontier.
 
 ## Research
