@@ -4,7 +4,7 @@ title:  "Day one hundred one"
 date:   2019-03-14 12:37:39 -0600
 ---
 # Pi day:
-It was a particularly exciting science day today and not just because it is March 14 or 3.14 (i.e., Pi day!). ![Christina Koch](https://www.nasa.gov/astronauts/biographies/christina-h-koch), a former research associate of Palmer Station, was a member of the three-person space team headed to the International Space Station. We all watched the launch at 4 PM from the lounge at Palmer Station.
+It was a particularly exciting science day today and not just because it is March 14 or 3.14 (i.e., Pi day!). [Christina Koch](https://www.nasa.gov/astronauts/biographies/christina-h-koch), a former research associate of Palmer Station, was a member of the three-person space team headed to the International Space Station. We all watched the launch at 4 PM from the lounge at Palmer Station.
 
 ![Launch](/assets/blog_photos/190314/Lounge_Launch.jpg)
 
