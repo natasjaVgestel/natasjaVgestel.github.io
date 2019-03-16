@@ -4,7 +4,7 @@ title:  "Day one hundred three"
 date:   2019-03-16 12:37:39 -0600
 ---
 # Gould departed on Pi day:
-Two days ago when we watched Christina Koch's launch into space, we watched it those who had recently arrived on the Gould (who had just finished a research cruise searching for whales). So, it was particularly crowded in the lounge! However, it was also the day we said goodbye to several members of the Palmer family, who left when the Gould left that same day. 
+Two days ago when we watched Christina Koch's launch into space, we watched it with those who had recently arrived on the Gould (who had just finished a research cruise searching for whales). So, it was particularly crowded in the lounge! However, it was also the day we said goodbye to several members of the Palmer family, who left on the Gould right afterwards. 
 
 ![Palmer family members leaving](/assets/blog_photos/190316/GouldDeparting_PiDay.jpg)
 
