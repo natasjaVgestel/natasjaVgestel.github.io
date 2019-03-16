@@ -8,7 +8,7 @@ Today's featured seals are of the Lobodontine tribe: the crabeater seal and the 
 
 ![dental features](/assets/blog_photos/190315/Teeth.jpg)
 
-Even though they share dental similarities, they eat very different things. Unlike what the name implies, crabeater seals do not eat crab. Rather, they eat crustaceans, the most important being krill (which look like shrimp, but are not; see photo below). Their teeth with their intricate seemingly carved patterns are used as a sieve so that water can exit its mouth while trapping the krill inside.
+Even though they share dental similarities, they eat very different things. Unlike what the name implies, crabeater seals do not eat crab. Rather, they eat crustaceans, the most important being krill (which look like shrimp, but are not; see photo below). Their teeth with their intricate, seemingly carved patterns are used as a sieve so that water can exit its mouth while trapping the krill inside.
 
 ![Crabeater seal and prey](/assets/blog_photos/190315/CrabeaterSeal_ByPumphouse.jpg)
 
