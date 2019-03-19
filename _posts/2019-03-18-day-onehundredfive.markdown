@@ -7,7 +7,7 @@ date:   2019-03-18 12:37:39 -0600
 We did a medical evacuation drill involving three teams: the Ocean Search and Rescue (OSAR), the Glacier Search and Rescue (GSAR) and the Trauma team. 
 
 Meet the teams:
-![OSAR, GSAR and Trauma](/assets/blog_photos/190318/P1110494.jpg)
+![OSAR, GSAR and Trauma](/assets/blog_photos/190318/Threeteams.jpg)
 
 Guess who was the victim? Me. 
 Kelly and I pretended to be on an island searching for moss and lichen. You know what... there were some pretty neat moss and lichen carpets where we were dropped off! 
