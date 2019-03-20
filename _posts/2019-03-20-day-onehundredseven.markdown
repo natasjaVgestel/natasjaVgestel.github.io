@@ -4,7 +4,7 @@ title:  "Day one hundred seven"
 date:   2019-03-20 12:37:39 -0600
 ---
 # A major challenge:
-One of the main challenges of working in Antarctica is, surprisingly, not the cold. However, it is related to the weather. For a few days now my weather app has predicted today would be pretty sunny day, then cloudy, then maybe clouds and snow. Even the day of, the app may still get it wrong! 
+One of the main challenges of working in Antarctica is, surprisingly, not the cold. However, it is related to the weather. For a few days now my weather app has predicted that today would be a pretty sunny day, then it predicted a cloudy day with some precipitation, then it predicted snow/rain most of the day. Even the day of, the app may still get it wrong! 
 
 Here was my dilemma: this week I am taking down my experimental sites so we can start packing everything up. All I need is a 1.5 hour period with no precipitation so I can take one final set of carbon flux measurements (because precipitation would be bad for our instrument) before we remove the experiment.
 
