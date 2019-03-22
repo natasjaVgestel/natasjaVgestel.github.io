@@ -10,6 +10,6 @@ Alas, the field season has come to an end. Snow is falling and is here to stay. 
 
 It was a beautiful day today. However, the snow also made it challenging to find the stainless steel collars and nails. We had help from Rich Harper (doc) and Randy Jones. Their help was much needed! 
 
-Thank you, Randy and Rich for volunteering to help us today!
+Thank you, Randy and Rich for helping us today!
 
 ![Challenges of snow](/assets/blog_photos/190322/TakeDown_site1_struggle.jpg)
