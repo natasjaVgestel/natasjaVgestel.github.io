@@ -8,7 +8,7 @@ Another beautiful sunrise this morning, with some breaks in the clouds in the sk
 
 The moment we initiated the measurements, snow started falling - gently at first, but then a snow blizzard ensued. This meant we had to forego the final carbon flux measurements, pack up the LI-COR instrument, and focus instead on taking down the site.
 
-![Valiant attempt for final carbon flux](/assets/blog_photos/190321/FinalAttempt_Litchfield.jpg)
+![Valiant attempt for final carbon flux](/assets/blog_photos/190321/FinalAttempt_Litchfield2.jpg)
 
 This also means my field season has ended. We had the sites up as soon as the snow had melted earlier in the season and we are now taking it down, now that the snow is remaining on the ground. So, we made the most of this year's summer season.
 
