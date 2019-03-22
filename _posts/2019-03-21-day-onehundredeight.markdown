@@ -4,7 +4,7 @@ title:  "Day one hundred eight"
 date:   2019-03-21 12:37:39 -0600
 ---
 # A valiant final attempt:
-Another beautiful sunrise this morning, with some breaks in the clouds in the sky (despite my weather apps predictions). This motivated me to go to Litchfield today for final carbon flux measurements and the take-down of our experimental plots. All I needed was a 1-hr period of no precipitation. If you saw my blog from [yesterday](https://natasjavgestel.github.io/blog/2019/03/20/day-onehundredseven) you might guess what happened. 
+Another beautiful sunrise this morning, with some breaks in the clouds in the sky (despite my weather app prediction). This motivated me to go to Litchfield today for final carbon flux measurements and the take-down of our experimental plots. All I needed was a 1-hr period of no precipitation. If you saw my blog from [yesterday](https://natasjavgestel.github.io/blog/2019/03/20/day-onehundredseven) you might guess what happened. 
 
 The moment we initiated the measurements, snow started falling - gently at first, but then a snow blizzard ensued. This meant we had to forego the final carbon flux measurements, pack up the LI-COR instrument, and focus instead on taking down the site.
 
