@@ -16,6 +16,6 @@ The intertidal zone was much affected by the spill, killing half of the limpet p
 
 This is likely the worst ecological disaster in Antarctica. Ironically, two months later another ship caused an even more substantial environmental disaster, but in Alaska: the *Exxon Valdez*. The *Exxon Valdez* received far more attention than the Bahia. 
 
-Meanwhile, the Bahia rests here - with someone's earthly possessions. 
+Meanwhile, the Bahia rests here - with someone's earthly possessions. A reminder of the dangers of the unseen world below the water's surface.
 
 ![Looking southeast](/assets/blog_photos/190324/Bahia1.jpg)
