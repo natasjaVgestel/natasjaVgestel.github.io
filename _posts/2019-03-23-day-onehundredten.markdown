@@ -14,4 +14,4 @@ What an amazing place....
 
 ![Moonlight and landscape](/assets/blog_photos/190323/Moon.jpg)
 
-P.S. I took the left photo through my binoculars!
+P.S. I took the left photo through my binoculars! You can even see craters!
