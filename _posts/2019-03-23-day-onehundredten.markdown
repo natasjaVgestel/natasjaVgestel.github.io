@@ -12,6 +12,6 @@ There is not much light at Palmer Station, so the nightsky on a cloudless night 
 
 What an amazing place....
 
-![Moonlight and landscape](/assets/blog_photos/190323/Moon.jpg)
+![Moonlight and landscape](/assets/blog_photos/190323/Moon2.jpg)
 
 P.S. I took the left photo through my binoculars! You can even see craters!
