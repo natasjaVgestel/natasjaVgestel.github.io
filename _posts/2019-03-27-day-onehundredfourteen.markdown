@@ -20,4 +20,3 @@ Thank you, FEMC crew, for taking such good care of the station:
 Zenobia Evans (supervisor), Ian Mannix, Mike Stovall, Jeff "el Jefe" Deckard, and Bill Burns.
  
 ![Carp shop](/assets/blog_photos/190327/CarpShop.jpg)
-
