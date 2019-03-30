@@ -18,4 +18,4 @@ Humble Island is packed with giant petrel nests (see photo below with giant petr
 
 Donna, thank you for having me tag along yesterday!
 
-![Humble Island with giant petrel tracks](/assets/blog_photos/190330/GiantPetrel_Humble.JPG)
+![Humble Island with giant petrel tracks](/assets/blog_photos/190330/P1120106.JPG)
