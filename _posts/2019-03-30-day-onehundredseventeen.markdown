@@ -4,7 +4,7 @@ title:  "Day one hundred seventeen"
 date:   2019-03-30 12:37:39 -0600
 ---
 # Donna Patterson-Fraser and her giant petrel research:
-Donna's study is the only long-term study of [southern giant petrels](see [day 92](https://natasjavgestel.github.io/blog/2019/03/05/day-ninetytwo)). As the name implies it is a large bird. In fact, it is the largest bird in Antarctica, with a 6-foot wingspan. She has studied these (relatively gentle) giants since 1991! 
+Donna's study is the only long-term study of [southern giant petrels](see [day 92](https://natasjavgestel.github.io/blog/2019/03/05/day-ninetytwo)). As the bird name implies it is a large bird. In fact, it is the largest bird in Antarctica, with a 6-foot wingspan. She has studied these (relatively gentle) giants since 1991! 
 
 ![southern giant petrels](/assets/blog_photos/190330/GiantPetrel_Humble.jpg)
 
@@ -18,4 +18,4 @@ Humble Island is packed with giant petrel nests (see photo below with giant petr
 
 Donna, thank you for having me tag along yesterday!
 
-![Humble Island with giant petrel tracks](/assets/blog_photos/190330/P1120106.jpg)
+![Humble Island with giant petrel tracks](/assets/blog_photos/190330/GiantPetrel_Humble.JPG)
