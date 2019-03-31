@@ -4,7 +4,7 @@ title:  "Day one hundred eighteen"
 date:   2019-03-31 12:37:39 -0600
 ---
 # Nature - Nothing is wasted:
-Antarctica is beautiful, but it is not an easy life for plants and animals. Penguins and seals have to watch for predators, like the [leopard seal](https://natasjavgestel.github.io/blog/2019/03/15/day-onehundredtwo). 
+Antarctica is beautiful, but it is not an easy life for plants and animals. Penguins and seals have to watch for predators, such as the [leopard seal](https://natasjavgestel.github.io/blog/2019/03/15/day-onehundredtwo). 
 
 ![gentoo penguins on Biscoe](/assets/blog_photos/190331/HarshContinent2.jpg)
 
