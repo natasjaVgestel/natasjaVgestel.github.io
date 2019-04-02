@@ -4,7 +4,7 @@ title:  "Day one hundred twenty"
 date:   2019-04-02 12:37:39 -0600
 ---
 # Power on station:
-Palmer Station has power because of fuel. [Yesterday](https://natasjavgestel.github.io/blog/2019/04/01/day-onehundrednineteen) I helped with the fuel transfer. But what kind of fuel is it? This station uses low-sulfur diesel.  This type of fuel is less polluting than the high-sulfur type (e.g. less particulate matter and sulfur emissions).
+Palmer Station is powered by fuel. [Yesterday](https://natasjavgestel.github.io/blog/2019/04/01/day-onehundrednineteen) I helped with the fuel transfer. But what kind of fuel is it? This station uses low-sulfur diesel.  This type of fuel is less polluting than the high-sulfur type (e.g. less particulate matter and sulfur emissions).
 
 Antarctica has been designated as an Emissions Control Area. A ban on high-sulfur fuel for cruise ships in 2011 was a welcome change to the delicate Antarctic environment. This ban was put in place by the International Maritime Organizations, an agency of the United Nations. 
 
