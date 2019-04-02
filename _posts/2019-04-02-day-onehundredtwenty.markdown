@@ -14,6 +14,6 @@ Meet John, the Lead power plant mechanic. John's responsibilities on station aff
 
 However, John also ensures the vehicles are operational. Unfortunately, the SkyTrak is currently in the shop needing some TLC (and actually a part for the differential). 
 
-Thank you, John for keeping us warm at Palmer Station and for keeping the vehicles going!
+Thank you, John for keeping us warm (among many things needing power) at Palmer Station and for keeping the vehicles going!
 
 ![SkyTrak](/assets/blog_photos/190402/Skytrak.jpg)
