@@ -14,7 +14,7 @@ We had an orientation the day before, so we knew what to expect. Our main goal w
 
 We were done refueling the tank in just over 3 hours, so the flow rate on average was 4.2 gallons per *second*!
 
-The cleanup was done very carefully too. The hose was guided such that any remaining fuel would return back to the ship. 
+The cleanup was done very carefully too. The hose was guided such that any remaining fuel inside it would return back to the ship. 
 
 ![guiding the hose](/assets/blog_photos/190401/Fueling2.jpg)
 
