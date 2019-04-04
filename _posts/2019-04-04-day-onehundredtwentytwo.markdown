@@ -8,7 +8,7 @@ It is because of the rapid warming rates here that the glacier behind Palmer Sta
 
 ![experimental warming study](/assets/blog_photos/190404/site1.jpg)
 
-My worry is that there is only so much additional carbon that the ecosystems can soak up from the atmosphere (through photosynthesis) under warmer conditions. This would mean that as we add more carbon to the atmosphere, more of it could remain in the atmosphere as CO<sub>2</sub> as carbon uptake by the plants may not be able to keep up with our pace of carbon emissions - hence, warming rates could happen *even* faster. 
+My worry is that there is only so much additional carbon that the ecosystems can soak up from the atmosphere (through photosynthesis) under warmer conditions. This would mean that as we add more carbon to the atmosphere, more of it could remain in the atmosphere as CO<sub>2</sub>, because carbon uptake by the plants may not be able to keep up with our pace of carbon emissions - hence, warming rates could happen *even* faster. 
 
 This is important to share! Why? I worry about our own pace of change, of things we could do as a society - working together towards a common goal: return our climate system back to what it should be doing naturally, by focusing more on renewable energy and reducing pollution. Because of us, Earth is running a fever, and we need to something about it. 
 
