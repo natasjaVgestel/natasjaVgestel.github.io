@@ -4,7 +4,7 @@ title:  "Day one hundred twenty two"
 date:   2019-04-04 12:37:39 -0600
 ---
 # Worries:
-It is because of the rapid warming rates here that the glacier behind Palmer Station has been receding so fast (see [day 31](https://natasjavgestel.github.io/blog/2019/01/03/day-thirtyone)). Thus, thanks to climate change I was able to work on a project studying climate change that utilizes the newly-exposed soil. 
+It is because of the rapid warming rates here that the glacier behind Palmer Station has been receding so fast (see [day 31](https://natasjavgestel.github.io/blog/2019/01/03/day-thirtyone)). Thus, thanks to climate change I was able to work on a project studying climate change that utilizes the newly exposed soil. 
 
 ![experimental warming study](/assets/blog_photos/190404/site1.jpg)
 
