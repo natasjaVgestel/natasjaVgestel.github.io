@@ -14,7 +14,7 @@ This is important to share! Why? I worry about our own pace of change, of things
 
 I worry about the still-existing reluctance about climate change. As my friend, Katharine Hayhoe states: "What our brains are designed to remember is weather: the conditions from day to day, week to week, and even year to year – that one sweltering week in July, or the blizzard that shut down the city a few years ago.
 
-But climate is the statistics of weather over tens, hundreds, and even thousands of years. To keep track of climate and decide for ourselves if it’s changing, we’d have to be capable of remembering the temperature and rainfall on every single day of the year for decades at a time, then we’d have to be able to average all those numbers in our head and fit a trend line to it, to see if it were going up or down".
+But climate is the statistics of weather over tens, hundreds, and even thousands of years. To keep track of climate and decide for ourselves if it’s changing, we’d have to be capable of remembering the temperature and rainfall on every single day of the year for decades at a time, then we’d have to be able to average all those numbers in our head and fit a trend line to it, to see if it were going up or down". Analyzing these kinds of data sets is what scientists do, and for us, the pattern is undeniable. 
 
 However, I try to stay positive. After all, we have come together as a society before: to help repair the hole in the ozone layer, the area in the atmosphere with depleted levels of ozone. Ozone in the stratosphere helps to protect us against harmful UV radiation. Thanks to the ban on chlorofluorocarbons (CFCs) in 1987 as part of the Montreal Protocol, the ozone hole is on the mend. 
 
