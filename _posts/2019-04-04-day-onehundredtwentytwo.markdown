@@ -12,7 +12,7 @@ My worry is that there is only so much additional carbon that the ecosystems can
 
 This is important to share! Why? I worry about our own pace of change, of things we could do as a society - working together towards a common goal: return our climate system back to what it should be doing naturally, by focusing more on renewable energy and reducing pollution. Because of us, Earth is running a fever, and we need to something about it. 
 
-I worry about the still-existing reluctance about climate change. As my friend, Katharine Hayhoe states: "What our brains are designed to remember is weather: the conditions from day to day, week to week, and even year to year – that one sweltering week in July, or the blizzard that shut down the city a few years ago.
+I worry about the still-existing reluctance about climate change. As my friend, [Katharine Hayhoe](http://katharinehayhoe.com/wp2016/) states: "What our brains are designed to remember is weather: the conditions from day to day, week to week, and even year to year – that one sweltering week in July, or the blizzard that shut down the city a few years ago.
 
 But climate is the statistics of weather over tens, hundreds, and even thousands of years. To keep track of climate and decide for ourselves if it’s changing, we’d have to be capable of remembering the temperature and rainfall on every single day of the year for decades at a time, then we’d have to be able to average all those numbers in our head and fit a trend line to it, to see if it were going up or down". Analyzing these kinds of data sets is what scientists do, and for us, the pattern is undeniable. 
 
