@@ -16,6 +16,6 @@ The leopard seal is a top predator, with sinuous grace as it prowls the waters. 
 
 ![Leopard seal - apex predator](/assets/blog_photos/190315/LeopardSeal_ApexPredator.jpg)
 
-Earlier I described other seals in the Palmer area: the [Weddell seal](https://natasjavgestel.github.io/blog/2019/03/08/day-ninetyfive), the [Southern elephant seal](https://natasjavgestel.github.io/blog/2019/03/09/day-ninetysix), and the [Antarctic fur seal](https://natasjavgestel.github.io/blog/2019/03/09/day-ninetysix). Irrespective of whether they belong to the true seal or eared seal, all seals are pinnipeds (pinna = "feather" and ped = "foot", so feather-foot). Here, you can see several species of seals near each other (see Greg's photo below: an Southern elephant, a Weddell and fur seals within a few meters from each other). 
+Earlier I described other seals in the Palmer area: the [Weddell seal](https://natasjavgestel.github.io/blog/2019/03/08/day-ninetyfive), the [Southern elephant seal](https://natasjavgestel.github.io/blog/2019/03/09/day-ninetysix), and the [Antarctic fur seal](https://natasjavgestel.github.io/blog/2019/03/10/day-ninetyseven). Irrespective of whether they belong to the true seal or eared seal, all seals are pinnipeds (pinna = "feather" and ped = "foot", so feather-foot). Here, you can see several species of seals near each other (see Greg's photo below: an Southern elephant, a Weddell and fur seals within a few meters from each other). 
 
 ![Aerial view](/assets/blog_photos/190315/AerialPhoto_SealsSpecies.jpg)
